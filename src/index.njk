@@ -4,25 +4,24 @@ title: ""
 ---
 
 <div class="home-header">
-  <div id="search"></div>
-</div>
-
-<div class="tag-filters" id="tag-filters">
-  <button class="tag-btn active" data-tag="all">All ({{ recipes | length }})</button>
-  {% for tag in recipes | allTags %}
-  <button class="tag-btn" data-tag="{{ tag | tagSlug }}">{{ tag }}</button>
-  {% endfor %}
+  <input
+    id="search-input"
+    type="search"
+    placeholder="Search recipes…"
+    autocomplete="off"
+    spellcheck="false"
+  >
 </div>
 
 <div class="recipe-grid" id="recipe-grid">
   {% for recipe in recipes %}
-  <article class="recipe-card" data-tags="{% for t in recipe.tags %}{{ t | tagSlug }} {% endfor %}">
-    {% if recipe.image_url %}
-    <div class="card-img">
-      <img src="{{ recipe.image_url }}" alt="{{ recipe.title }}" loading="lazy">
-    </div>
+  <article class="recipe-card" data-title="{{ recipe.title | lower }}">
+    {% if recipe.image %}
+    <a href="/recipes/{{ recipe.id }}/" class="card-img">
+      <img src="{{ recipe.image }}" alt="{{ recipe.title }}" loading="lazy">
+    </a>
     {% else %}
-    <div class="card-img card-img--placeholder"></div>
+    <a href="/recipes/{{ recipe.id }}/" class="card-img card-img--placeholder"></a>
     {% endif %}
     <div class="card-body">
       <h2><a href="/recipes/{{ recipe.id }}/">{{ recipe.title }}</a></h2>
@@ -34,45 +33,70 @@ title: ""
         <span>🍽 {{ recipe.servings }}</span>
         {% endif %}
       </div>
-      {% if recipe.tags %}
-      <div class="card-tags">
-        {% for tag in recipe.tags | first(4) %}
-        <span class="tag">{{ tag }}</span>
-        {% endfor %}
-      </div>
-      {% endif %}
     </div>
   </article>
   {% endfor %}
 </div>
 
-<p class="no-results" id="no-results" style="display:none">No recipes match that filter.</p>
+<p class="no-results" id="no-results" style="display:none">No recipes match your search.</p>
 
 <script>
-window.addEventListener('DOMContentLoaded', () => {
-  // Pagefind search
-  if (window.PagefindUI) {
-    new window.PagefindUI({ element: "#search", showSubResults: false, resetStyles: false });
+(function () {
+  // Returns -1 if no match, otherwise a score where higher = better.
+  // Score rewards consecutive runs of matched characters: a run of length n
+  // contributes n*(n+1)/2, so "pasta" matching in one stretch beats five
+  // scattered single-character hits.
+  function fuzzyScore(title, query) {
+    if (!query) return 0;
+    var score = 0;
+    var run = 0;
+    var ti = 0;
+    var lastTi = -2;
+    for (var qi = 0; qi < query.length; qi++) {
+      while (ti < title.length && title[ti] !== query[qi]) ti++;
+      if (ti === title.length) return -1;
+      run = (ti === lastTi + 1) ? run + 1 : 1;
+      score += run;
+      lastTi = ti;
+      ti++;
+    }
+    return score;
   }
 
-  // Tag filter
-  const btns = document.querySelectorAll('.tag-btn');
-  const cards = document.querySelectorAll('.recipe-card');
-  const noResults = document.getElementById('no-results');
+  var input = document.getElementById('search-input');
+  var grid = document.getElementById('recipe-grid');
+  var cards = Array.from(document.querySelectorAll('.recipe-card'));
+  var noResults = document.getElementById('no-results');
 
-  btns.forEach(btn => {
-    btn.addEventListener('click', () => {
-      btns.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      const tag = btn.dataset.tag;
-      let visible = 0;
-      cards.forEach(card => {
-        const show = tag === 'all' || card.dataset.tags.includes(tag);
-        card.style.display = show ? '' : 'none';
-        if (show) visible++;
+  input.addEventListener('input', function () {
+    var q = input.value.toLowerCase().trim();
+
+    if (!q) {
+      cards.forEach(function (card) {
+        card.style.display = '';
+        grid.appendChild(card);
       });
-      noResults.style.display = visible === 0 ? '' : 'none';
+      noResults.style.display = 'none';
+      return;
+    }
+
+    var scored = [];
+    cards.forEach(function (card) {
+      var score = fuzzyScore(card.dataset.title, q);
+      if (score >= 0) {
+        scored.push({ card: card, score: score });
+      } else {
+        card.style.display = 'none';
+      }
     });
+
+    scored.sort(function (a, b) { return b.score - a.score; });
+    scored.forEach(function (item) {
+      item.card.style.display = '';
+      grid.appendChild(item.card);
+    });
+
+    noResults.style.display = scored.length === 0 ? '' : 'none';
   });
-});
+})();
 </script>

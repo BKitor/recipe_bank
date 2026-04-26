@@ -49,36 +49,19 @@ a:hover { text-decoration: underline; }
 }
 
 /* Search */
-.home-header { margin-bottom: 1rem; }
+.home-header { margin-bottom: 1.5rem; }
 
-/* Pagefind overrides */
-.pagefind-ui__search-input {
-  border: 1px solid var(--border) !important;
-  border-radius: var(--radius) !important;
-  background: var(--surface) !important;
-  font-size: 1rem !important;
-  padding: 0.6rem 1rem !important;
-}
-
-/* Tag filter row */
-.tag-filters {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-  margin: 1rem 0 1.5rem;
-}
-.tag-btn {
+#search-input {
+  width: 100%;
   border: 1px solid var(--border);
+  border-radius: var(--radius);
   background: var(--surface);
+  font-size: 1rem;
+  padding: 0.6rem 1rem;
   color: var(--text);
-  padding: 4px 12px;
-  border-radius: 20px;
-  cursor: pointer;
-  font-size: 0.8rem;
-  transition: background 0.15s, color 0.15s;
+  outline: none;
 }
-.tag-btn:hover { border-color: var(--accent); color: var(--accent); }
-.tag-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+#search-input:focus { border-color: var(--accent); }
 
 /* Recipe grid */
 .recipe-grid {
@@ -95,7 +78,7 @@ a:hover { text-decoration: underline; }
 }
 .recipe-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.08); }
 
-.card-img { aspect-ratio: 4/3; overflow: hidden; background: #f0eeeb; }
+.card-img { display: block; aspect-ratio: 4/3; overflow: hidden; background: #f0eeeb; }
 .card-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .card-img--placeholder { background: linear-gradient(135deg, #f0eeeb 0%, #e4e2dd 100%); }
 
@@ -104,9 +87,7 @@ a:hover { text-decoration: underline; }
 .card-body h2 a { color: var(--text); }
 .card-body h2 a:hover { color: var(--accent); text-decoration: none; }
 
-.card-meta { font-size: 0.8rem; color: var(--muted); margin-bottom: 0.5rem; display: flex; gap: 0.75rem; }
-
-.card-tags { display: flex; flex-wrap: wrap; gap: 0.25rem; }
+.card-meta { font-size: 0.8rem; color: var(--muted); display: flex; gap: 0.75rem; }
 
 /* Tags (inline chips) */
 .tag {

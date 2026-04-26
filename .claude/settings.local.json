@@ -9,7 +9,8 @@
       "Bash(dnf list *)",
       "Bash(rpm -q python3-pip)",
       "Read(//home/bkitor/.local/bin/**)",
-      "Bash(.venv/bin/python3 *)"
+      "Bash(.venv/bin/python3 *)",
+      "Bash(npm run *)"
     ]
   }
 }

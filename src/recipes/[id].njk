@@ -7,8 +7,8 @@ permalink: /recipes/{{ recipe.id }}/
 layout: base.njk
 ---
 <article class="recipe-page" data-pagefind-body>
-  {% if recipe.image_url %}
-  <img class="recipe-hero" src="{{ recipe.image_url }}" alt="{{ recipe.title }}">
+  {% if recipe.image %}
+  <img class="recipe-hero" src="{{ recipe.image }}" alt="{{ recipe.title }}">
   {% endif %}
 
   <h1 data-pagefind-meta="title">{{ recipe.title }}</h1>
