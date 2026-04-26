@@ -1,5 +1,9 @@
+const { HtmlBasePlugin } = require("@11ty/eleventy");
+
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
+
+  eleventyConfig.addPlugin(HtmlBasePlugin);
 
   // pagefind UI (pagefind-ui.js + pagefind-ui.css) is auto-bundled by
   // `npx pagefind --site _site` when it detects references on the page.
@@ -34,5 +38,6 @@ module.exports = function (eleventyConfig) {
     },
     templateFormats: ["njk", "html"],
     htmlTemplateEngine: "njk",
+    pathPrefix: "/recipe_bank/",
   };
 };
