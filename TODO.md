@@ -1,2 +1,0 @@
-- Shouldn't be referenceing images from other websites, decouple as much as possible
-    - adopt into python tooling

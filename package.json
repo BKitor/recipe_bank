@@ -7,8 +7,7 @@
     "build": "eleventy",
     "serve": "eleventy --serve --port 8080",
     "build:full": "eleventy && npx pagefind --site _site",
-    "clean": "rm -rf _site",
-    "download-images": "node scripts/download_images.js"
+    "clean": "rm -rf _site"
   },
   "keywords": [],
   "author": "",
