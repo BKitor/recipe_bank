@@ -42,30 +42,61 @@ title: ""
 
 <script>
 (function () {
-  function fuzzy(title, query) {
-    if (!query) return true;
+  // Returns -1 if no match, otherwise a score where higher = better.
+  // Score rewards consecutive runs of matched characters: a run of length n
+  // contributes n*(n+1)/2, so "pasta" matching in one stretch beats five
+  // scattered single-character hits.
+  function fuzzyScore(title, query) {
+    if (!query) return 0;
+    var score = 0;
+    var run = 0;
     var ti = 0;
+    var lastTi = -2;
     for (var qi = 0; qi < query.length; qi++) {
       while (ti < title.length && title[ti] !== query[qi]) ti++;
-      if (ti === title.length) return false;
+      if (ti === title.length) return -1;
+      run = (ti === lastTi + 1) ? run + 1 : 1;
+      score += run;
+      lastTi = ti;
       ti++;
     }
-    return true;
+    return score;
   }
 
   var input = document.getElementById('search-input');
-  var cards = document.querySelectorAll('.recipe-card');
+  var grid = document.getElementById('recipe-grid');
+  var cards = Array.from(document.querySelectorAll('.recipe-card'));
   var noResults = document.getElementById('no-results');
 
   input.addEventListener('input', function () {
     var q = input.value.toLowerCase().trim();
-    var visible = 0;
+
+    if (!q) {
+      cards.forEach(function (card) {
+        card.style.display = '';
+        grid.appendChild(card);
+      });
+      noResults.style.display = 'none';
+      return;
+    }
+
+    var scored = [];
     cards.forEach(function (card) {
-      var show = fuzzy(card.dataset.title, q);
-      card.style.display = show ? '' : 'none';
-      if (show) visible++;
+      var score = fuzzyScore(card.dataset.title, q);
+      if (score >= 0) {
+        scored.push({ card: card, score: score });
+      } else {
+        card.style.display = 'none';
+      }
     });
-    noResults.style.display = visible === 0 ? '' : 'none';
+
+    scored.sort(function (a, b) { return b.score - a.score; });
+    scored.forEach(function (item) {
+      item.card.style.display = '';
+      grid.appendChild(item.card);
+    });
+
+    noResults.style.display = scored.length === 0 ? '' : 'none';
   });
 })();
 </script>

@@ -21,7 +21,7 @@ module.exports = () => {
     .filter((f) => f.endsWith(".json"))
     .map((f) => {
       const recipe = JSON.parse(fs.readFileSync(path.join(dir, f), "utf8"));
-      recipe.image = localImage(recipe.id) || recipe.image_url || null;
+      recipe.image = localImage(recipe.id);
       return recipe;
     })
     .sort((a, b) => a.title.localeCompare(b.title));
