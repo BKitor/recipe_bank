@@ -8,6 +8,7 @@ import os
 import re
 import sys
 import unicodedata
+import urllib.request
 from pathlib import Path
 
 try:
@@ -497,8 +498,7 @@ Schema:
   "tags": ["tag1"],
   "ingredient_groups": [{"name": "string", "ingredients": [{"amount": "string", "unit": "string", "name": "string", "notes": "string"}]}],
   "instruction_groups": [{"name": "string", "steps": ["string"]}],
-  "notes": "string or null",
-  "image_url": null
+  "notes": "string or null"
 }
 
 Rules:
@@ -506,7 +506,6 @@ Rules:
 - amounts are strings (fractions like "1/2" are fine)
 - do not invent data not present in the source
 - for multi-component recipes, use named ingredient_groups and instruction_groups for each component
-- set image_url to null always (cannot extract from text)
 """
 
 
@@ -555,6 +554,27 @@ def html_to_text(content):
 
 
 # ---------------------------------------------------------------------------
+# Image download
+# ---------------------------------------------------------------------------
+
+def download_image(url, slug, images_dir):
+    """Download url into images_dir/{slug}.{ext}. Returns the path on success, None on failure."""
+    try:
+        ext = url.split("?")[0].rsplit(".", 1)[-1].lower()
+        if ext not in ("jpg", "jpeg", "png", "webp", "gif"):
+            ext = "jpg"
+        dest = images_dir / f"{slug}.{ext}"
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            images_dir.mkdir(parents=True, exist_ok=True)
+            dest.write_bytes(resp.read())
+        return dest
+    except Exception as e:
+        print(f"  Image download failed: {e}")
+        return None
+
+
+# ---------------------------------------------------------------------------
 # Normalize + write
 # ---------------------------------------------------------------------------
 
@@ -567,11 +587,10 @@ def normalize(data):
     data.setdefault("servings", None)
     data.setdefault("tags", [])
     data.setdefault("notes", None)
-    data.setdefault("image_url", None)
     data.setdefault("source_url", None)
 
     # Remove empty strings → None for scalar fields
-    for field in ["description", "servings", "notes", "image_url", "source_url"]:
+    for field in ["description", "servings", "notes", "source_url"]:
         if data.get(field) == "":
             data[field] = None
 
@@ -617,6 +636,7 @@ def import_file(filepath, out_dir=None, dry_run=False):
 
     if out_dir is None:
         out_dir = Path(__file__).parent.parent / "src" / "recipes"
+    images_dir = out_dir.parent / "assets" / "images"
 
     suffix = filepath.suffix.lower()
     print(f"Importing: {filepath.name}")
@@ -669,11 +689,19 @@ def import_file(filepath, out_dir=None, dry_run=False):
     data["id"] = slug
     data["date_added"] = datetime.date.today().isoformat()
 
+    # Download image now that we have the slug; never store the URL in the JSON.
+    image_url = data.pop("image_url", None)
     if dry_run:
         print(f"  [dry-run] Would write: src/recipes/{slug}.json")
         print(f"  Title: {data['title']}")
         print(f"  Tags: {data['tags']}")
+        if image_url:
+            print(f"  Image URL: {image_url} (would download)")
         return data
+
+    if image_url:
+        result = download_image(image_url, slug, images_dir)
+        print(f"  Image: {result.name if result else 'download failed, skipped'}")
 
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path, final_slug = unique_output_path(out_dir, slug)
