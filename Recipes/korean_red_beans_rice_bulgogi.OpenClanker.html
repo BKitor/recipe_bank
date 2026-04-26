@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Korean Red Beans & Rice Bowl with Bulgogi + Spinach & Zucchini</title>
+  <style>
+    :root {
+      --bg: #ffffff;
+      --fg: #111111;
+      --muted: #555;
+      --border: #e6e6e6;
+      --accent: #b91c1c;
+      --accent2: #0f766e;
+      --codebg: #f7f7f7;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.5;
+    }
+    header {
+      padding: 32px 18px 20px;
+      border-bottom: 1px solid var(--border);
+      background: linear-gradient(180deg, #fff 0%, #fafafa 100%);
+    }
+    header h1 {
+      margin: 0 0 8px;
+      font-size: 1.6rem;
+      letter-spacing: -0.02em;
+    }
+    header p {
+      margin: 0;
+      color: var(--muted);
+      max-width: 70ch;
+    }
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 22px 18px 60px;
+    }
+    .meta {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 10px;
+      margin: 18px 0 26px;
+    }
+    .card {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 12px 14px;
+      background: #fff;
+    }
+    .card b { color: var(--fg); }
+    .card span { color: var(--muted); }
+    h2 {
+      margin-top: 28px;
+      margin-bottom: 10px;
+      font-size: 1.25rem;
+      letter-spacing: -0.01em;
+    }
+    h3 {
+      margin-top: 18px;
+      margin-bottom: 8px;
+      font-size: 1.05rem;
+    }
+    ul, ol {
+      margin-top: 8px;
+      margin-bottom: 14px;
+      padding-left: 22px;
+    }
+    li { margin: 6px 0; }
+    .note {
+      border-left: 4px solid var(--accent2);
+      background: #f0fdfa;
+      padding: 10px 12px;
+      border-radius: 10px;
+      margin: 14px 0;
+      color: #134e4a;
+    }
+    .warning {
+      border-left: 4px solid var(--accent);
+      background: #fef2f2;
+      padding: 10px 12px;
+      border-radius: 10px;
+      margin: 14px 0;
+      color: #7f1d1d;
+    }
+    .section {
+      margin: 18px 0;
+      padding: 14px 14px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: #fff;
+    }
+    .subtle {
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+    code {
+      background: var(--codebg);
+      padding: 0.1em 0.35em;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      font-size: 0.95em;
+    }
+    .grid2 {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 14px;
+    }
+    footer {
+      margin-top: 38px;
+      padding-top: 18px;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+    @media print {
+      header { border-bottom: none; }
+      .section, .card { break-inside: avoid; }
+      body { font-size: 12pt; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Korean Red Beans & Rice Bowl with Bulgogi Beef</h1>
+    <p>
+      Louisiana-style creamy red beans flavored with gochujang + doenjang,
+      served over rice with bulgogi beef, spinach namul, and sautéed zucchini.
+      Designed to be meal-prep friendly and assembled like a bibimbap bowl.
+    </p>
+  </header>
+
+  <main>
+    <div class="meta">
+      <div class="card"><b>Yield:</b> <span>4–6 servings</span></div>
+      <div class="card"><b>Total time:</b> <span>~2 hr (less with soaked beans)</span></div>
+      <div class="card"><b>Difficulty:</b> <span>Moderate</span></div>
+      <div class="card"><b>Equipment:</b> <span>Large pot, skillet, rice cooker (optional)</span></div>
+    </div>
+
+    <div class="warning">
+      <b>Important:</b> Use <i>unsweetened</i> red beans (dry or canned). Do not use sweetened
+      “red bean paste” products.
+    </div>
+
+    <h2>Ingredients</h2>
+
+    <div class="section">
+      <h3>Korean-Style Red Beans (the “stew”)</h3>
+      <ul>
+        <li>1 lb (450 g) dry red kidney beans (or small red beans)</li>
+        <li>2 tbsp neutral oil (canola, avocado, etc.)</li>
+        <li>1 large yellow onion, diced</li>
+        <li>4 scallions, sliced (separate whites/greens)</li>
+        <li>8 cloves garlic, minced</li>
+        <li>1 tbsp ginger, minced</li>
+        <li>6–8 cups water or unsalted chicken stock</li>
+        <li>2–4 tbsp gochujang (adjust to taste)</li>
+        <li>1–2 tbsp doenjang</li>
+        <li>2 tbsp soy sauce (plus more to finish)</li>
+        <li>1 tbsp gochugaru (optional, for cleaner chili flavor)</li>
+        <li>1 tsp brown sugar or honey (optional)</li>
+        <li>1–2 tbsp rice vinegar (or kimchi juice)</li>
+        <li>1–2 tsp toasted sesame oil (finish)</li>
+        <li>Black pepper, to taste</li>
+      </ul>
+      <p class="subtle">
+        Optional additions (recommended): 8 oz mushrooms (shiitake/oyster), sliced.
+        Add with the pastes.
+      </p>
+    </div>
+
+    <div class="section">
+      <h3>Rice</h3>
+      <ul>
+        <li>2 cups short-grain white rice (or medium grain)</li>
+        <li>Water per your rice cooker / package instructions</li>
+        <li>1 tsp toasted sesame oil (optional)</li>
+        <li>1 tbsp toasted sesame seeds (optional)</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h3>Bulgogi Beef</h3>
+      <ul>
+        <li>1.25 lb (560 g) thin-sliced ribeye or sirloin (bulgogi cut)</li>
+        <li>1 small Asian pear, grated (or 1 kiwi, or 1/2 apple)</li>
+        <li>1/2 cup soy sauce</li>
+        <li>2 tbsp brown sugar (or honey)</li>
+        <li>2 tbsp mirin (optional but recommended)</li>
+        <li>1 tbsp toasted sesame oil</li>
+        <li>5 cloves garlic, minced</li>
+        <li>1 tbsp ginger, minced</li>
+        <li>1/2 tsp black pepper</li>
+        <li>1 tbsp toasted sesame seeds</li>
+        <li>1/2 onion, thinly sliced</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h3>Spinach Namul (Blanched Spinach Side)</h3>
+      <ul>
+        <li>10 oz (280 g) spinach</li>
+        <li>1 tsp kosher salt (for blanching water)</li>
+        <li>1 tsp soy sauce</li>
+        <li>1–2 tsp toasted sesame oil</li>
+        <li>1 small garlic clove, minced or grated</li>
+        <li>1 tbsp toasted sesame seeds</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h3>Sautéed Zucchini (Hobak Bokkeum)</h3>
+      <ul>
+        <li>2 medium zucchini, thin-sliced into half moons</li>
+        <li>1 tbsp neutral oil</li>
+        <li>2 cloves garlic, minced</li>
+        <li>1/2 tsp kosher salt (adjust to taste)</li>
+        <li>1 tsp toasted sesame oil (optional)</li>
+        <li>1 tsp toasted sesame seeds (optional)</li>
+        <li>Pinch of gochugaru (optional)</li>
+      </ul>
+    </div>
+
+    <h2>Instructions</h2>
+
+    <div class="section">
+      <h3>1) Prep the beans</h3>
+      <ol>
+        <li>Pick through beans for stones/debris. Rinse thoroughly.</li>
+        <li>
+          Optional soak: cover with water and soak 8–12 hours. Drain.
+          (Soaking shortens cook time and improves texture.)
+        </li>
+      </ol>
+    </div>
+
+    <div class="section">
+      <h3>2) Start the bean base</h3>
+      <ol>
+        <li>Heat a large pot over medium heat. Add neutral oil.</li>
+        <li>Add diced onion and scallion whites. Cook 6–8 minutes until softened.</li>
+        <li>Add garlic and ginger. Cook 45–60 seconds until fragrant.</li>
+        <li>Add beans and 6 cups water/stock. Bring to a boil, then reduce to a steady simmer.</li>
+        <li>Simmer uncovered 45–60 minutes, stirring occasionally.</li>
+      </ol>
+      <div class="note">
+        <b>Why add gochujang/doenjang later?</b> It keeps the fermented flavor brighter and reduces bitterness.
+      </div>
+    </div>
+
+    <div class="section">
+      <h3>3) Add Korean seasoning</h3>
+      <ol>
+        <li>Once beans are starting to soften (after ~45–60 minutes), stir in:</li>
+        <ul>
+          <li><code>2–4 tbsp</code> gochujang</li>
+          <li><code>1–2 tbsp</code> doenjang</li>
+          <li><code>2 tbsp</code> soy sauce</li>
+          <li>Optional: gochugaru and sugar/honey</li>
+        </ul>
+        <li>Continue simmering another 45–90 minutes until beans are very tender.</li>
+        <li>Add more water as needed to keep a thick-stew consistency.</li>
+      </ol>
+    </div>
+
+    <div class="section">
+      <h3>4) Thicken like Louisiana red beans</h3>
+      <ol>
+        <li>When beans are fully tender, mash ~20% of them against the side of the pot.</li>
+        <li>Simmer 10 more minutes. The pot should become creamy and cohesive.</li>
+        <li>Finish with rice vinegar (or kimchi juice), black pepper, and sesame oil.</li>
+        <li>Taste and adjust salt with soy sauce.</li>
+      </ol>
+      <p class="subtle">
+        Target consistency: thick stew that still pours. If it gets too thick, add water 1/4 cup at a time.
+      </p>
+    </div>
+
+    <div class="section">
+      <h3>5) Cook the rice</h3>
+      <ol>
+        <li>Rinse rice until water runs mostly clear (2–4 rinses).</li>
+        <li>Cook using your rice cooker or stovetop method.</li>
+        <li>Optional: fold in sesame oil + sesame seeds after cooking.</li>
+      </ol>
+    </div>
+
+    <div class="section">
+      <h3>6) Bulgogi beef</h3>
+      <ol>
+        <li>In a bowl, combine grated pear, soy sauce, sugar, mirin, sesame oil, garlic, ginger, pepper, sesame seeds.</li>
+        <li>Add beef and sliced onion. Mix thoroughly.</li>
+        <li>Marinate 30 minutes (or up to overnight).</li>
+        <li>
+          Heat a skillet or grill pan over high heat. Cook beef in batches 2–4 minutes,
+          until browned and cooked through.
+        </li>
+      </ol>
+      <div class="note">
+        <b>Batch cooking matters:</b> overcrowding steams the meat and you lose the caramelized edges.
+      </div>
+    </div>
+
+    <div class="grid2">
+      <div class="section">
+        <h3>7) Spinach namul</h3>
+        <ol>
+          <li>Bring a pot of water to a boil. Salt it lightly.</li>
+          <li>Add spinach and blanch 30–60 seconds until wilted bright green.</li>
+          <li>Drain and rinse under cold water. Squeeze out as much water as possible.</li>
+          <li>Toss spinach with soy sauce, sesame oil, garlic, and sesame seeds.</li>
+        </ol>
+      </div>
+
+      <div class="section">
+        <h3>8) Sautéed zucchini</h3>
+        <ol>
+          <li>Heat a skillet over medium-high heat. Add neutral oil.</li>
+          <li>Add zucchini and cook 3–5 minutes until softened but not mushy.</li>
+          <li>Add garlic and salt. Cook 30–60 seconds.</li>
+          <li>Optional: finish with sesame oil, sesame seeds, and a pinch of gochugaru.</li>
+        </ol>
+      </div>
+    </div>
+
+    <h2>Assembly (Bowl Format)</h2>
+    <div class="section">
+      <ol>
+        <li>Add rice to a bowl.</li>
+        <li>Ladle Korean red beans over the rice.</li>
+        <li>Top with bulgogi beef.</li>
+        <li>Add spinach namul and sautéed zucchini on the side.</li>
+        <li>Optional toppings: kimchi, sliced scallion greens, gim/nori strips, fried egg.</li>
+      </ol>
+    </div>
+
+    <h2>Timing Plan (Efficient Workflow)</h2>
+    <div class="section">
+      <ol>
+        <li>Start beans simmering.</li>
+        <li>While beans cook, marinate bulgogi.</li>
+        <li>Cook rice ~30–45 minutes before serving.</li>
+        <li>Cook spinach + zucchini in the last 15 minutes.</li>
+        <li>Cook bulgogi last (fast and best hot).</li>
+      </ol>
+    </div>
+
+    <h2>Storage Notes</h2>
+    <div class="section">
+      <ul>
+        <li>Beans improve overnight. Refrigerate up to 4–5 days.</li>
+        <li>Bulgogi keeps 3–4 days refrigerated.</li>
+        <li>Spinach and zucchini keep 2–3 days; reheat gently.</li>
+        <li>Freeze beans up to 3 months (texture holds well).</li>
+      </ul>
+    </div>
+
+    <h2>Adjustments / Variations</h2>
+    <div class="section">
+      <ul>
+        <li><b>More heat:</b> add gochugaru or a spoon of chili crisp at serving.</li>
+        <li><b>More funk:</b> increase doenjang slightly, or add kimchi juice at the end.</li>
+        <li><b>More body:</b> mash more beans, or simmer uncovered longer.</li>
+        <li><b>Vegetarian version:</b> use stock made from kombu + dried shiitake instead of meat.</li>
+      </ul>
+    </div>
+
+    <footer>
+      <p>
+        This recipe is intended as a fusion bowl: the beans are cooked like Louisiana red beans,
+        but seasoned like a Korean stew. Keep the toppings bright and fresh so the dish doesn’t feel heavy.
+      </p>
+    </footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,94 @@
+{
+  "title": "Homemade Hamburger Helper Recipe",
+  "source_url": "https://www.saltandlavender.com/homemade-hamburger-helper-recipe/",
+  "description": "This easy homemade Hamburger Helper recipe has ground beef, macaroni, and a flavorful cheesy cheddar sauce! It's total comfort food that's inexpensive and ready in about 30 minutes.",
+  "prep_time_min": 5,
+  "cook_time_min": 25,
+  "total_time_min": 30,
+  "servings": "4",
+  "tags": [
+    "Main Course",
+    "American",
+    "cheeseburger macaroni",
+    "homemade Hamburger Helper recipe",
+    "how to make hamburger helper"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "pound",
+          "name": "extra lean ground beef",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "medium",
+          "name": "onion",
+          "notes": "chopped"
+        },
+        {
+          "amount": "2",
+          "unit": "heaping tablespoons",
+          "name": "tomato paste",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "name": "garlic powder",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "name": "chili powder",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "name": "uncooked elbow macaroni",
+          "notes": ""
+        },
+        {
+          "amount": "3",
+          "unit": "cups",
+          "name": "beef broth",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "cups",
+          "name": "freshly grated cheddar cheese",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Salt & pepper",
+          "notes": "to taste"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Add the beef and onions to a soup pot. Cook over medium-high heat until the beef has browned (about 7-10 minutes), breaking the meat up with your spoon as you go along. If there's a lot of excess fat, spoon most of it out.",
+        "Stir in the tomato paste, garlic powder, and chili powder.",
+        "Add in the beef broth and increase the heat to high. Once it starts boiling, add in the macaroni.",
+        "Reduce the heat so it's not furiously boiling (a rapid simmer is good). I ended up cooking mine over medium heat. Let it cook uncovered until the pasta is tender and most of the liquid has been absorbed (about 13-15 minutes). I stir it every couple of minutes.",
+        "While it's cooking, grate the cheese (this saves prep time at the start of the recipe).",
+        "Take the pot off the heat and stir in the cheese. Season with salt & pepper as needed. I let it sit for a couple minutes prior to serving (soaks up the sauce and flavors more), but you can serve it right away."
+      ]
+    }
+  ],
+  "notes": "Notes\nServes 4-6 depending on the portion size.\nAs with any one pot meal, ingredients and stoves vary. If you're running out of liquid (like it's in danger of sticking and burning) when you still have a while to go before the pasta is done, feel free to add in more liquid, 1/2 cup at a time.",
+  "image_url": "https://www.saltandlavender.com/wp-content/uploads/2022/08/hamburger-helper-recipe-1-96x96.jpg",
+  "id": "homemade-hamburger-helper-recipe",
+  "date_added": "2026-04-26"
+}

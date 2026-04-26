@@ -1,0 +1,139 @@
+{
+  "title": "Tourtiere: Canadian Meat Pie",
+  "source_url": "https://www.simplywhisked.com/tourtiere-canadian-meat-pie/",
+  "description": "Originating in Quebec, Tourtiere is a traditional French Canadian Christmas recipe. Learn how to make this meat pie with flaky crust and hearty filling, just in time for the holidays.",
+  "prep_time_min": 30,
+  "cook_time_min": 45,
+  "total_time_min": 75,
+  "servings": "8",
+  "tags": [
+    "Course",
+    "Christmas",
+    "Cuisine",
+    "Canadian"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "tablespoons",
+          "name": "olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "name": "small onion",
+          "notes": "diced"
+        },
+        {
+          "amount": "2",
+          "unit": "",
+          "name": "garlic cloves",
+          "notes": "minced"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "pounds",
+          "name": "ground beef",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "pound",
+          "name": "ground pork",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "name": "mashed potatoes *see note",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoons",
+          "name": "cinnamon",
+          "notes": ""
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "teaspoons",
+          "name": "dried oregano",
+          "notes": ""
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "teaspoons",
+          "name": "ground mustard",
+          "notes": ""
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "teaspoons",
+          "name": "ground allspice",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "ground cloves",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoons",
+          "name": "coarse salt",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "name": "beef broth",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "tablespoons",
+          "name": "flour",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "name": "egg for egg wash",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "",
+          "name": "pie crusts",
+          "notes": "store bought or homemade"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Preheat oven to 375˚F.",
+        "Heat a large skillet to medium high. Add the oil and onions, and sauté until translucent.",
+        "Add garlic and continue cooking until fragrant, about 1 minute.",
+        "Add ground beef and pork and cook until no longer pink, breaking up the meat into small pieces.",
+        "Add mashed potatoes and spices.",
+        "In a small jar or container, shake beef broth and flour until smooth and pour into the skillet.",
+        "Cook until the broth has thickened.",
+        "Place the bottom crust in a 9-inch pie plate. Fill the crust with meat filling and top with remaining pie crust.",
+        "Seal the two crusts together, rolling to one over the other if needed, and press gently with a fork or fingers. Brush the top crust with egg wash.",
+        "Bake for 45 - 50 minutes or until the pie crust is golden brown in color."
+      ]
+    }
+  ],
+  "notes": "Notes\nFor this recipe you can use leftover mashed potatoes, or boil 2 peeled, medium potatoes until tender and mash them until smooth with a\npotato masher\nor\nhand mixer\n.",
+  "image_url": "https://www.simplywhisked.com/wp-content/uploads/2022/12/Tourtiere-3-225x225.jpg",
+  "id": "tourtiere-canadian-meat-pie",
+  "date_added": "2026-04-26"
+}

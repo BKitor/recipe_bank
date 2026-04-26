@@ -1,0 +1,118 @@
+{
+  "title": "The Best Meatloaf Recipe",
+  "source_url": "https://www.spendwithpennies.com/best-meatloaf-recipe/",
+  "description": "This is the best meatloaf recipe ever. It is so easy to make and comes out perfectly juicy every time!",
+  "prep_time_min": 10,
+  "cook_time_min": 50,
+  "total_time_min": 70,
+  "servings": "8",
+  "tags": [],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "½",
+          "unit": "medium",
+          "name": "onion",
+          "notes": "diced"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "butter",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "",
+          "name": "eggs",
+          "notes": ""
+        },
+        {
+          "amount": "¾",
+          "unit": "cup",
+          "name": "milk",
+          "notes": ""
+        },
+        {
+          "amount": "¾",
+          "unit": "cup",
+          "name": "Italian breadcrumbs",
+          "notes": "or seasoned breadcrumbs"
+        },
+        {
+          "amount": "2",
+          "unit": "pounds",
+          "name": "lean ground beef",
+          "notes": "80/20"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "ketchup",
+          "notes": "or chili sauce"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "Italian seasoning",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoons",
+          "name": "fresh parsley",
+          "notes": "chopped, or 2 teaspoons dried parsley"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "Kosher salt & ½ teaspoon black pepper",
+          "notes": "more to taste"
+        }
+      ]
+    },
+    {
+      "name": "Meatloaf Sauce",
+      "ingredients": [
+        {
+          "amount": "½",
+          "unit": "cup",
+          "name": "chili sauce",
+          "notes": "*see note"
+        },
+        {
+          "amount": "½",
+          "unit": "cup",
+          "name": "ketchup",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoons",
+          "name": "brown sugar",
+          "notes": "optional"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Preheat the oven to 350°F. Line a rimmed baking pan with aluminum foil and spray with cooking spray.",
+        "In a small pan, cook onions in butter over medium low heat until tender. Let them cool completely.",
+        "In a medium bowl, combine eggs, milk, and breadcrumbs. Let the mixture sit for 5-10 minutes.",
+        "Add the ground beef, cooked onions, ketchup or chili sauce, Italian seasoning, parsley, and salt & pepper to the bowl. Mix until just combined.",
+        "Form a 8\"x4\" loaf on the prepared baking pan and bake for 40 minutes.",
+        "While the meatloaf is cooking, combine the chili sauce and ketchup (and brown sugar if using). Spread mixture over the meatloaf and bake for an additional 10-15 minutes or until cooked through and the meatloaf reaches an internal temperature of 160°F. Broil for 1-2 minutes if desired.",
+        "Let the meatloaf rest for 10 minutes before slicing and serving."
+      ]
+    }
+  ],
+  "notes": "Notes\nChili Sauce:\nChili sauce is\nnot spicy\n, it tastes like a very zesty ketchup with more tang and less sweetness. (Find\nchili sauce\nnear the ketchup at the store). If you don't have chili sauce, use extra ketchup or even a bit of BBQ sauce if you'd like.\nOptional Additions\n: 1 tablespoon of Dijon mustard or Worcestershire sauce can be added to the beef mixture. Onions can be added without cooking but may not soften as well and will have a stronger flavor.\nDo Not Overmix\n: Mix the ingredients just until combined to avoid a dense meatloaf.\nUse Lean Meat\n: Use 80/20 for great flavor without making it greasy.\nAdd flavors and moisture\n: Don't skip the seasonings and soak the breadcrumbs in milk to keep the meatloaf flavorful and moist.\nSkip the Loaf Pan\n: Use a baking pan instead of a loaf pan. This gives the meatloaf a nice crust. A loaf pan causes the meat to steam, and there's nowhere for the drippings to go.\nRest the Meatloaf\n: Let the meatloaf rest once it comes out of the oven to help redistribute the juices and make sure it won't fall apart when sliced.",
+  "image_url": "https://www.spendwithpennies.com/wp-content/uploads/2022/12/1200-The-Best-Meatloaf-Recipe-SpendWithPennies-500x500.jpg",
+  "id": "the-best-meatloaf-recipe",
+  "date_added": "2026-04-26"
+}

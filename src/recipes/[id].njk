@@ -1,0 +1,102 @@
+---
+pagination:
+  data: recipes
+  size: 1
+  alias: recipe
+permalink: /recipes/{{ recipe.id }}/
+layout: base.njk
+---
+<article class="recipe-page" data-pagefind-body>
+  {% if recipe.image_url %}
+  <img class="recipe-hero" src="{{ recipe.image_url }}" alt="{{ recipe.title }}">
+  {% endif %}
+
+  <h1 data-pagefind-meta="title">{{ recipe.title }}</h1>
+
+  {% if recipe.description %}
+  <p class="recipe-description">{{ recipe.description }}</p>
+  {% endif %}
+
+  <div class="recipe-meta-bar">
+    {% if recipe.prep_time_min %}
+    <div class="meta-item">
+      <span class="meta-label">Prep</span>
+      <span>{{ recipe.prep_time_min | formatTime }}</span>
+    </div>
+    {% endif %}
+    {% if recipe.cook_time_min %}
+    <div class="meta-item">
+      <span class="meta-label">Cook</span>
+      <span>{{ recipe.cook_time_min | formatTime }}</span>
+    </div>
+    {% endif %}
+    {% if recipe.total_time_min %}
+    <div class="meta-item">
+      <span class="meta-label">Total</span>
+      <span>{{ recipe.total_time_min | formatTime }}</span>
+    </div>
+    {% endif %}
+    {% if recipe.servings %}
+    <div class="meta-item">
+      <span class="meta-label">Serves</span>
+      <span>{{ recipe.servings }}</span>
+    </div>
+    {% endif %}
+  </div>
+
+  {% if recipe.tags %}
+  <div class="recipe-tags" data-pagefind-meta="tags:{{ recipe.tags | join(', ') }}">
+    {% for tag in recipe.tags %}
+    <a href="/?tag={{ tag | tagSlug }}" class="tag">{{ tag }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="recipe-body">
+    <section class="ingredients-section">
+      <h2>Ingredients</h2>
+      {% for group in recipe.ingredient_groups %}
+        {% if group.name %}
+        <h3>{{ group.name }}</h3>
+        {% endif %}
+        <ul class="ingredient-list">
+          {% for ing in group.ingredients %}
+          <li>
+            {% if ing.amount %}<span class="amount">{{ ing.amount }}</span>{% endif %}
+            {% if ing.unit %}<span class="unit"> {{ ing.unit }}</span>{% endif %}
+            <span class="ing-name"> {{ ing.name }}</span>
+            {% if ing.notes %}<span class="ing-notes">, {{ ing.notes }}</span>{% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    </section>
+
+    <section class="instructions-section">
+      <h2>Instructions</h2>
+      {% for group in recipe.instruction_groups %}
+        {% if group.name %}
+        <h3>{{ group.name }}</h3>
+        {% endif %}
+        <ol class="instruction-list">
+          {% for step in group.steps %}
+          <li>{{ step }}</li>
+          {% endfor %}
+        </ol>
+      {% endfor %}
+    </section>
+
+    {% if recipe.notes %}
+    <section class="notes-section">
+      <h2>Notes</h2>
+      <div class="notes-body">{{ recipe.notes | replace("\n", "<br>") | safe }}</div>
+    </section>
+    {% endif %}
+  </div>
+
+  {% if recipe.source_url %}
+  <p class="recipe-source">
+    <a href="{{ recipe.source_url }}" target="_blank" rel="noopener noreferrer">View original recipe ↗</a>
+  </p>
+  {% endif %}
+</article>

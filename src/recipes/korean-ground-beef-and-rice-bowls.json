@@ -1,0 +1,99 @@
+{
+  "title": "Korean Ground Beef and Rice Bowls",
+  "source_url": "https://therecipecritic.com/korean-ground-beef-rice-bowls/",
+  "description": "Korean Ground Beef and Rice Bowls are so incredibly easy to make and will become a family favorite! This makes the perfect weeknight meal.",
+  "prep_time_min": 5,
+  "cook_time_min": 15,
+  "total_time_min": 20,
+  "servings": "4",
+  "tags": [
+    "Main Course",
+    "Korean",
+    "Korean rice bowls",
+    "ground beef",
+    "rice bowl",
+    "korean",
+    "ground beef with rice bowls"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "pound",
+          "name": "lean ground beef",
+          "notes": "90% lean"
+        },
+        {
+          "amount": "3",
+          "unit": "",
+          "name": "garlic cloves",
+          "notes": "minced"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "name": "packed brown sugar",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "name": "reduced-sodium soy sauce",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoons",
+          "name": "sesame oil",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "name": "ground ginger",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "name": "crushed red pepper flakes",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "name": "pepper",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "cups",
+          "name": "hot cooked white or brown rice",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "sliced green onions and sesame seeds for garnish",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "In a large skillet  cook the ground beef and garlic breaking it into crumbles over medium heat until no longer pink. Drain the grease.",
+        "In a small bowl whisk brown sugar, soy sauce, sesame oil, ginger, red pepper flakes and pepper. Pour over the ground beef and let simmer for another minute or two.",
+        "Serve over hot rice and garnish with green onions and sesame seeds."
+      ]
+    }
+  ],
+  "notes": null,
+  "image_url": "https://therecipecritic.com/wp-content/uploads/2017/04/0C4A8325-4-600x600.jpg",
+  "id": "korean-ground-beef-and-rice-bowls",
+  "date_added": "2026-04-26"
+}

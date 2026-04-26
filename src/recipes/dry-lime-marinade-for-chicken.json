@@ -1,0 +1,136 @@
+{
+  "title": "Dry Lime Marinade for Chicken",
+  "source_url": "https://carlsbadcravings.com/purpose-chili-lime-chicken-rub-marinade-recipe/",
+  "description": "Chili Lime Chicken is wonderfully moist, tender and exploding with flavor from an EASY rub - perfect for salad, burritos, pasta, tacos etc. You will love having this on hand!",
+  "prep_time_min": 5,
+  "cook_time_min": 10,
+  "total_time_min": 15,
+  "servings": "4",
+  "tags": [
+    "Course",
+    "Main Dish",
+    "Cuisine",
+    "Mexican"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "pound",
+          "name": "chicken breasts pounded to 1/2 inch thickness",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Chili Lime Rub",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "tablespoons",
+          "name": "olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "chili powder",
+          "notes": ""
+        },
+        {
+          "amount": "1/4-1/2",
+          "unit": "teaspoon",
+          "name": "chipotle chili pepper (optional for more heat)",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "name": "ground cumin",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "name": "smoked paprika",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "name": "onion powder",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "name": "garlic powder",
+          "notes": ""
+        },
+        {
+          "amount": "3/4",
+          "unit": "teaspoon",
+          "name": "salt",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "name": "pepper",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "brown sugar",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "fresh-squeezed lime juice from 1 lime",
+          "name": "(about 2 tablespoons)",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Lime zest from 1 lime",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "Marinate Chicken",
+      "steps": [
+        "In a small bowl, whisk chicken rub ingredients together. Rub evenly all over chicken breasts in a shallow dish.",
+        "Time permitting, allow chicken to rest for 30 minutes at room temperature or refrigerate up to 8 hours then bring to room temperature for before cooking.*"
+      ]
+    },
+    {
+      "name": "STOVETOP DIRECTIONS",
+      "steps": [
+        "If chicken has been refrigerated, let sit at room temperature for 15-30 minutes (time permitting).",
+        "Heat a large non-stick skillet over medium high heat. Once very hot, add chicken and cook, undisturbed for 3-5 minutes, or until nicely browned (or blackened if you prefer) on one side. Turn chicken over, cover, and reduce heat to medium.",
+        "Cook for approximately 5-7 more minutes (depending on thickness of chicken), or until chicken is cooked through.",
+        "Remove to a cutting board and let rest 5 minutes before slicing. Garnish with extra fresh lime juice if desired."
+      ]
+    },
+    {
+      "name": "GRILLING DIRECTIONS",
+      "steps": [
+        "If chicken has been refrigerated, let sit at room temperature for 15-30 minutes (time permitting).",
+        "Meanwhile, preheat the grill to medium heat, 375-450°F, clean and grease.",
+        "Grill chicken undisturbed for for 5-7 minutes per side, or until chicken is cooked through. (An inserted thermometer should read 165 degrees F.)",
+        "Remove chicken from grill and let rest 5 minutes before slicing."
+      ]
+    }
+  ],
+  "notes": "Notes\nDon't miss the \"how to make\" recipe video at the top of the post!\n*Chicken is still delicious even if cooked immediately but is more flavorful the longer the rub marinates.",
+  "image_url": "https://carlsbadcravings.com/wp-content/uploads/2018/01/chili-lime-chicken-new-500x500.jpg",
+  "id": "dry-lime-marinade-for-chicken",
+  "date_added": "2026-04-26"
+}

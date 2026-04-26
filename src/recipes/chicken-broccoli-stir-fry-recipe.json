@@ -1,0 +1,116 @@
+{
+  "title": "Chicken Broccoli Stir Fry Recipe",
+  "source_url": "https://natashaskitchen.com/chicken-broccoli-and-mushroom-stir-fry/",
+  "description": "The sauce in this stir fry is perfectly \"saucy,\" making it ideal for serving over hot and fluffy white rice .  This recipe moves fast so start cooking your rice first and be sure to prep and chop all of your stir fry ingredients and make the sauce before cooking the stir fry.",
+  "prep_time_min": 15,
+  "cook_time_min": 15,
+  "total_time_min": 30,
+  "servings": "4",
+  "tags": [],
+  "ingredient_groups": [
+    {
+      "name": "Chicken and Broccoli:",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "lb",
+          "name": "chicken breast",
+          "notes": "(boneless skinless), cut into 3/4\" pieces"
+        },
+        {
+          "amount": "2",
+          "unit": "Tbsp",
+          "name": "cooking oil",
+          "notes": "(I used extra light olive oil), divided"
+        },
+        {
+          "amount": "1",
+          "unit": "lb",
+          "name": "broccoli",
+          "notes": "cut into florets (about 5 cups)"
+        },
+        {
+          "amount": "1",
+          "unit": "small",
+          "name": "yellow onion",
+          "notes": "sliced into strips"
+        },
+        {
+          "amount": "1/2",
+          "unit": "lb",
+          "name": "white button mushrooms",
+          "notes": "thickly sliced"
+        }
+      ]
+    },
+    {
+      "name": "Stir Fry Sauce Ingredients:",
+      "ingredients": [
+        {
+          "amount": "2/3",
+          "unit": "cup",
+          "name": "low sodium chicken broth",
+          "notes": ""
+        },
+        {
+          "amount": "3",
+          "unit": "Tbsp",
+          "name": "low sodium soy sauce",
+          "notes": "(use Tamari for gluten free), or added to taste"
+        },
+        {
+          "amount": "2",
+          "unit": "Tbsp",
+          "name": "light brown sugar",
+          "notes": "packed (or honey to taste)"
+        },
+        {
+          "amount": "1",
+          "unit": "Tbsp",
+          "name": "corn starch",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "Tbsp",
+          "name": "sesame oil",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "name": "fresh ginger",
+          "notes": "peeled and grated (lightly packed)"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "name": "garlic (2 small cloves)",
+          "notes": "grated"
+        },
+        {
+          "amount": "1/4",
+          "unit": "tsp",
+          "name": "black pepper",
+          "notes": "plus more to season chicken"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "In a small bowl, combine all of the sauce ingredients and whisk to dissolve sugar and corn starch (warm broth will help dissolve the sugar faster). Set sauce aside.",
+        "Cut chicken into small bite-sized pieces (no more than 3/4” thick) and season lightly with pepper. Heat a large heavy skillet or wok over medium-high heat. Add 1 Tbsp oil. Add chicken in a single layer and let it sit undisturbed for 1 minute to get a good sear then stir fry for another 5 minutes or until golden brown just cooked through then remove to a bowl and loosely cover to keep warm.",
+        "In the same skillet, add another 1 Tbsp oil along with broccoli florets, sliced onion and sliced mushrooms. Stir fry 3 minutes or until mushrooms are softened and broccoli is crisp-tender then reduce heat to medium/low.",
+        "Give the sauce a quick stir in case there was any settling of starch and pour all of it over the vegetables. Simmer 3-4 minutes or until sauce is thickened and garlic and ginger are mellowed in flavor. To thin the sauce, add water a tablespoon at a time.",
+        "Return chicken to the pan and stir another 30 seconds or until heated through. Add more soy sauce to taste if needed and serve over hot rice."
+      ]
+    }
+  ],
+  "notes": null,
+  "image_url": "https://natashaskitchen.com/wp-content/uploads/2020/04/Chicken-and-Broccoli-Stir-Fry-1-794x794.jpg",
+  "id": "chicken-broccoli-stir-fry-recipe",
+  "date_added": "2026-04-26"
+}

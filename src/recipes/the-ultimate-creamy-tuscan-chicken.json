@@ -1,0 +1,125 @@
+{
+  "title": "The Ultimate Creamy Tuscan Chicken",
+  "source_url": "https://foodess.com/tuscan-chicken/",
+  "description": null,
+  "prep_time_min": 15,
+  "cook_time_min": 30,
+  "total_time_min": null,
+  "servings": "4",
+  "tags": [
+    "Dinner",
+    "Italian",
+    "Keyword",
+    "Tuscan Chicken"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "4",
+          "unit": "",
+          "name": "boneless",
+          "notes": "skinless chicken breasts (that’s 1 - 1 ½ lbs)"
+        },
+        {
+          "amount": "2 ½",
+          "unit": "tsp",
+          "name": "kosher salt",
+          "notes": "divided use"
+        },
+        {
+          "amount": "¼",
+          "unit": "tsp",
+          "name": "freshly ground black pepper",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoons",
+          "name": "cooking oil",
+          "notes": "I use avocado oil"
+        },
+        {
+          "amount": "2",
+          "unit": "cups",
+          "name": "chopped onion",
+          "notes": "that’s one 10 oz yellow onion"
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "name": "minced garlic",
+          "notes": "that’s about 3 large cloves garlic"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cups",
+          "name": "unsalted diced tomatoes",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "name": "chicken broth",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "name": "heavy cream",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "name": "dried Italian seasoning",
+          "notes": "optional"
+        },
+        {
+          "amount": "1/2",
+          "unit": "tsp",
+          "name": "crushed red pepper flakes",
+          "notes": "optional"
+        },
+        {
+          "amount": "3",
+          "unit": "cups",
+          "name": "fresh spinach",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "name": "freshly grated Parmesan cheese",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Fresh basil leaves for garnish",
+          "notes": "if desired"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Season the chicken breasts on both sides with 1 tsp of the salt and the pepper.",
+        "Heat the oil in a large skillet over medium-high heat. Add the chicken breasts and Sear until golden brown on both sides, about 5 minutes per side. Remove the chicken from the skillet and set aside.",
+        "In the same skillet, add the onion cook and ½ tsp salt. Cook until translucent, about 6 minutes, stirring frequently. Reduce the heat if onions start to scorch before they fully soften (you want them properly soft - no semi-raw onion crunch in the sauce, please). They pick up the color and browned flavor from the seared chicken, too. Yum. Add garlic and cook a minute more.",
+        "Pour in the chicken broth, and scrape the bottom of the skillet to deglaze it, lifting off any browned bits stuck to the bottom.",
+        "Add the heavy cream, diced tomatoes, dried Italian seasoning, and crushed red pepper flakes (if using). Stir well and bring the mixture to a simmer to let the sauce reduce for 5 minutes to thicken it up and let the flavors meld.",
+        "Stir in the freshly grated Parmesan cheese until melted in. Taste and add about 1 tsp more salt (add it in pinches and taste).",
+        "Return the chicken to the skillet, nestling it into the sauce. Let it simmer in the sauce until cooked through to 165ºF. Add spinach and cook until just wilted.",
+        "Garnish with fresh basil leaves just before serving."
+      ]
+    }
+  ],
+  "notes": null,
+  "image_url": "https://foodess.com/wp-content/uploads/2023/08/Tuscan-Chicken-9-150x188.jpg",
+  "id": "the-ultimate-creamy-tuscan-chicken",
+  "date_added": "2026-04-26"
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Spanish Rice",
+  "source_url": "https://www.loveandlemons.com/spanish-rice/",
+  "description": "Learn how to make Spanish rice! This recipe is SO easy to make, and the fluffy, flavorful rice is the perfect side dish for Mexican mains like tacos and enchiladas .",
+  "prep_time_min": 10,
+  "cook_time_min": 35,
+  "total_time_min": 45,
+  "servings": "4",
+  "tags": [],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "extra-virgin olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "½",
+          "unit": "",
+          "name": "white onion",
+          "notes": "diced"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "name": "basmati rice",
+          "notes": "rinsed"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "tomato paste",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "",
+          "name": "garlic cloves",
+          "notes": "minced"
+        },
+        {
+          "amount": "½",
+          "unit": "cup",
+          "name": "diced fresh tomatoes or canned tomato sauce",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "name": "jalapeño pepper",
+          "notes": "stemmed, seeded, and chopped"
+        },
+        {
+          "amount": "½",
+          "unit": "teaspoon",
+          "name": "sea salt",
+          "notes": ""
+        },
+        {
+          "amount": "¼",
+          "unit": "teaspoon",
+          "name": "dried oregano",
+          "notes": ""
+        },
+        {
+          "amount": "1½",
+          "unit": "cups",
+          "name": "vegetable broth",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Heat the olive oil in a medium Dutch oven or pot. Add the onion and cook for 5 to 8 minutes, or until softened. Add the rice and cook for 2 minutes, or until fragrant and toasted.",
+        "Stir in the tomato paste and garlic, then add the fresh tomatoes, jalapeño, salt, oregano, and broth. Bring to a boil. Cover, reduce the heat, and simmer for 15 minutes, or until the liquid is absorbed.",
+        "Remove from the heat and let sit, covered, for 10 more minutes. Fluff with a fork."
+      ]
+    }
+  ],
+  "notes": null,
+  "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2023/05/spanish-rice-recipe.jpg",
+  "id": "spanish-rice",
+  "date_added": "2026-04-26"
+}

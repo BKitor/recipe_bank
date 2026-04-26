@@ -1,0 +1,86 @@
+{
+  "title": "Healthy 20 Minute Sheet Pan Sausage and Veggies",
+  "source_url": "https://gimmedelicious.com/20-minute-sheet-pan-healthy-sausage-and-veggies/",
+  "description": null,
+  "prep_time_min": 10,
+  "cook_time_min": 20,
+  "total_time_min": 30,
+  "servings": "4",
+  "tags": [],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "12-16",
+          "unit": "ounces",
+          "name": "Smoked Turkey or Chicken Sausage",
+          "notes": "about 3 cups"
+        },
+        {
+          "amount": "2",
+          "unit": "cups",
+          "name": "sweet potato",
+          "notes": "diced into 1/2'' cubes"
+        },
+        {
+          "amount": "2",
+          "unit": "cups",
+          "name": "broccoli florets",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "name": "bell pepper",
+          "notes": "chopped (any colors you like)"
+        },
+        {
+          "amount": "2",
+          "unit": "cloves",
+          "name": "garlic minced",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoons",
+          "name": "olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "Italian seasoning",
+          "notes": "or taco, Cajun of your favorite spice blend!"
+        },
+        {
+          "amount": "½",
+          "unit": "teaspoon",
+          "name": "salt",
+          "notes": ""
+        },
+        {
+          "amount": "½",
+          "unit": "teaspoon",
+          "name": "black pepper",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Pre-heat oven to 400F.",
+        "Slice the sausage into 1'' rounds. Dice the sweet potatoes into small 1/2'' cubes.",
+        "Add the sausage, veggies and minced garlic to a large baking sheet. Drizzle with olive oil and sprinkle with the Italian spices or your favorite spice blend. Seasoning with salt and pepper. Toss veggies with your hands until they are fully combined and coated with olive oil and spices.",
+        "Bake for 20 minutes, flipping halfway. Enjoy with rice, quinoa, in sandwiches or as is for weight loss!"
+      ]
+    }
+  ],
+  "notes": "Notes\nOther veggies that are also great in this dish include zucchini, asparagus, green beans, brussels sprouts, grape tomatoes, onion, and carrots.",
+  "image_url": "https://gimmedelicious.com/wp-content/uploads/2017/12/20-Minute-Healthy-Sheet-Pan-Sausage-and-Veggies-4-430x430.jpg",
+  "id": "healthy-20-minute-sheet-pan-sausage-and-veggies",
+  "date_added": "2026-04-26"
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Butternut Squash Soup",
+  "source_url": "https://www.loveandlemons.com/butternut-squash-soup/",
+  "description": "This vegan butternut squash soup is the ultimate fall comfort food! Store it in the fridge for up to 4 days, or freeze it for up to a few months.",
+  "prep_time_min": 10,
+  "cook_time_min": 35,
+  "total_time_min": 45,
+  "servings": "6",
+  "tags": [],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "tablespoons",
+          "name": "extra-virgin olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "name": "yellow onion",
+          "notes": "chopped"
+        },
+        {
+          "amount": "½",
+          "unit": "teaspoon",
+          "name": "sea salt",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "name": "(3-pound) butternut squash",
+          "notes": "peeled, seeded, and cubed"
+        },
+        {
+          "amount": "3",
+          "unit": "",
+          "name": "garlic cloves",
+          "notes": "chopped"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "chopped fresh sage",
+          "notes": ""
+        },
+        {
+          "amount": "½",
+          "unit": "tablespoon",
+          "name": "minced fresh rosemary",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "grated fresh ginger",
+          "notes": ""
+        },
+        {
+          "amount": "3 to 4",
+          "unit": "cups",
+          "name": "vegetable broth",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Freshly ground black pepper",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "For serving",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Chopped parsley",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Toasted pepitas",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Crusty bread",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Heat the oil in a large pot over medium heat. Add the onion, salt, and several grinds of fresh pepper and sauté until soft, 5 to 8 minutes. Add the squash and cook until it begins to soften, stirring occasionally, for 8 to 10 minutes.",
+        "Add the garlic, sage, rosemary, and ginger. Stir and cook 30 seconds to 1 minute, until fragrant, then add 3 cups of the broth. Bring to a boil, cover, and reduce heat to a simmer. Cook until the squash is tender, 20 to 30 minutes.",
+        "Let cool slightly and pour the soup into a blender , working in batches if necessary, and blend until smooth. If your soup is too thick, add up to 1 cup more broth and blend. Season to taste and serve with parsley, pepitas, and crusty bread."
+      ]
+    }
+  ],
+  "notes": null,
+  "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2019/10/butternut-squash-soup-recipe-580x580.jpg",
+  "id": "butternut-squash-soup",
+  "date_added": "2026-04-26"
+}

@@ -1,0 +1,78 @@
+---
+layout: base.njk
+title: ""
+---
+
+<div class="home-header">
+  <div id="search"></div>
+</div>
+
+<div class="tag-filters" id="tag-filters">
+  <button class="tag-btn active" data-tag="all">All ({{ recipes | length }})</button>
+  {% for tag in recipes | allTags %}
+  <button class="tag-btn" data-tag="{{ tag | tagSlug }}">{{ tag }}</button>
+  {% endfor %}
+</div>
+
+<div class="recipe-grid" id="recipe-grid">
+  {% for recipe in recipes %}
+  <article class="recipe-card" data-tags="{% for t in recipe.tags %}{{ t | tagSlug }} {% endfor %}">
+    {% if recipe.image_url %}
+    <div class="card-img">
+      <img src="{{ recipe.image_url }}" alt="{{ recipe.title }}" loading="lazy">
+    </div>
+    {% else %}
+    <div class="card-img card-img--placeholder"></div>
+    {% endif %}
+    <div class="card-body">
+      <h2><a href="/recipes/{{ recipe.id }}/">{{ recipe.title }}</a></h2>
+      <div class="card-meta">
+        {% if recipe.total_time_min %}
+        <span>⏱ {{ recipe.total_time_min | formatTime }}</span>
+        {% endif %}
+        {% if recipe.servings %}
+        <span>🍽 {{ recipe.servings }}</span>
+        {% endif %}
+      </div>
+      {% if recipe.tags %}
+      <div class="card-tags">
+        {% for tag in recipe.tags | first(4) %}
+        <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</div>
+
+<p class="no-results" id="no-results" style="display:none">No recipes match that filter.</p>
+
+<script>
+window.addEventListener('DOMContentLoaded', () => {
+  // Pagefind search
+  if (window.PagefindUI) {
+    new window.PagefindUI({ element: "#search", showSubResults: false, resetStyles: false });
+  }
+
+  // Tag filter
+  const btns = document.querySelectorAll('.tag-btn');
+  const cards = document.querySelectorAll('.recipe-card');
+  const noResults = document.getElementById('no-results');
+
+  btns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      btns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const tag = btn.dataset.tag;
+      let visible = 0;
+      cards.forEach(card => {
+        const show = tag === 'all' || card.dataset.tags.includes(tag);
+        card.style.display = show ? '' : 'none';
+        if (show) visible++;
+      });
+      noResults.style.display = visible === 0 ? '' : 'none';
+    });
+  });
+});
+</script>

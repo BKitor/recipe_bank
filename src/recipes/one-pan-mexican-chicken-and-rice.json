@@ -1,0 +1,111 @@
+{
+  "title": "One Pan Mexican Chicken and Rice",
+  "source_url": "https://www.the-girl-who-ate-everything.com/one-pan-mexican-chicken-rice/",
+  "description": "This One Pan Mexican Chicken and Rice has enchilada sauce, green chiles, rice, and all the toppings (hello avocado, sour cream, and tomato)!",
+  "prep_time_min": 10,
+  "cook_time_min": 15,
+  "total_time_min": 25,
+  "servings": "4",
+  "tags": [
+    "Mexican"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "3",
+          "unit": "tablespoons",
+          "name": "extra virgin olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "½",
+          "unit": "",
+          "name": "white onion",
+          "notes": "diced finely"
+        },
+        {
+          "amount": "1",
+          "unit": "pound",
+          "name": "boneless skinless chicken breasts",
+          "notes": "cut into bite sized pieces"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "of kosher salt and freshly ground pepper to taste",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "cloves",
+          "name": "of garlic",
+          "notes": ", minced"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "name": "uncooked long grain white rice",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "(10 oz) can",
+          "name": "red enchilada sauce",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "(10 oz) can",
+          "name": "diced tomatoes and green chilies, undrained",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "name": "water",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "name": "ground cumin",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "name": "shredded cheddar cheese or Mexican-blend cheese",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "optional Toppings: sour cream, tomatoes, diced avocado, cilantro",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "In a large skillet (about 12-inch) or pan, sautée onions in two tablespoons of olive oil over medium heat. Season chicken with salt and pepper.",
+        "Once onions soften, increase the heat to medium high and add chicken to the pan.",
+        "Brown the chicken pieces and add the garlic. Cook for about 1 more minute.",
+        "Push chicken to one side of the pan and add additional tablespoon of olive oil to other side.",
+        "Add the uncooked rice in the olive oil and saute it for a couple of minutes.",
+        "Add the enchilada sauce, diced tomatoes, water and cumin. Stir to combine. Bring mixture to a boil then lower the heat to a simmer and cover the pan with a tight fitting lid.",
+        "Cook chicken and rice mixture covered for about 15 minutes or until rice is tender and the liquid is absorbed making sure to stir every once in a while.",
+        "Sprinkle cheese on top and cover with a lid, letting it sit for 1-2 minutes or until cheese has melted.",
+        "Top with desired toppings and eat!"
+      ]
+    }
+  ],
+  "notes": "Notes\nUpdate: Many of you have made this and some have had their rice not cook. You can definitely add 1/2 to 1 cup of water to the mixture as needed to make sure your rice cooks.",
+  "image_url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2017/02/TheGirlWhoAteEverything_MexicanChickenAndRice_Hero2_Vertical-720x720.jpg",
+  "id": "one-pan-mexican-chicken-and-rice",
+  "date_added": "2026-04-26"
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Chicken Pan Sauce",
+  "source_url": "https://therecipecritic.com/chicken-pan-sauce/",
+  "description": "Elevate your chicken breast dinner with this simple and elegant Chicken Pan Sauce. Made with simple ingredients you already have in your kitchen, this sauce takes just 20 minutes to make and will please even the pickiest palates! It's flavorful, juicy, and a must-have in your recipe book.",
+  "prep_time_min": 10,
+  "cook_time_min": 20,
+  "total_time_min": 30,
+  "servings": "4",
+  "tags": [
+    "Dinner",
+    "American",
+    "chicken",
+    "chicken pan sauce"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "tablespoons",
+          "name": "olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "pounds",
+          "name": "boneless skinless chicken breast,",
+          "notes": "pounded to 1/2 \" thickness"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Kosher salt and cracked black pepper,",
+          "notes": "to taste"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoons",
+          "name": "Italian seasonings,",
+          "notes": "divided"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "name": "shallot,",
+          "notes": "minced"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "garlic,",
+          "notes": "minced"
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoons",
+          "name": "butter,",
+          "notes": "divided"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cups",
+          "name": "chicken broth,",
+          "notes": "or white wine"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Pound the chicken breasts to 1/2 inch thickness using a kitchen mallet if they are too thick. Season both sides of the breasts with 1 teaspoon of Italian seasoning, salt, and pepper.",
+        "Add the olive oil to a large skillet and heat over medium-high heat.",
+        "Add the seasoned chicken to the pan to sear and cook for about 5 minutes on each side. The chicken should no longer be pink and golden on the outside.",
+        "Remove the cooked chicken from the pan and set aside.",
+        "To make the chicken pan sauce turn the heat down to medium-high. Add 1 tablespoon of butter to the pan. Add the diced onion and garlic and saute for 2 minutes or until tender.",
+        "Add the broth or white wine and deglaze the pan. Stir or whisk to get all the flavors from the pan into the sauce. Reduce the sauce to slightly thicken.  Add more liquid and continue to reduce if you want more sauce.",
+        "Stir in 1 tablespoon of butter to add richness. Whisk in the remaining 1 teaspoon of Italian seasoning.",
+        "Season to taste with kosher salt and cracked black pepper. You can add more flavor using other dried herbs if you desire."
+      ]
+    }
+  ],
+  "notes": null,
+  "image_url": "https://therecipecritic.com/wp-content/uploads/2023/01/pansauce-1-96x96.jpg",
+  "id": "chicken-pan-sauce",
+  "date_added": "2026-04-26"
+}

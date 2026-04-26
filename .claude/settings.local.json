@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs -I{} basename {})",
+      "Bash(npm --version)",
+      "Read(//usr/bin/**)",
+      "Read(//home/bkitor/.nvm/versions/**)",
+      "Bash(git init *)",
+      "Bash(dnf list *)",
+      "Bash(rpm -q python3-pip)",
+      "Read(//home/bkitor/.local/bin/**)",
+      "Bash(.venv/bin/python3 *)"
+    ]
+  }
+}

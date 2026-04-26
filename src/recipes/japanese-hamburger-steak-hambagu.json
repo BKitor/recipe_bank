@@ -1,0 +1,162 @@
+{
+  "title": "Japanese Hamburger Steak (Hambāgu ハンバーグ)",
+  "source_url": "https://drivemehungry.com/japanese-hamburger-steak-hambagu/",
+  "description": "Japanese hamburger steak or hambāgu ハンバーグ is a juicy hamburger steak patty made with ground beef, panko breadcrumbs, and sauteed onions. It's served with a tangy sauce made of ketchup and worcestershire sauce!",
+  "prep_time_min": 8,
+  "cook_time_min": 15,
+  "total_time_min": 23,
+  "servings": "4",
+  "tags": [
+    "dinner",
+    "lunch",
+    "Japanese",
+    "Korean"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "Hamburger Steak",
+      "ingredients": [
+        {
+          "amount": "1 ⅓",
+          "unit": "lb",
+          "name": "ground beef",
+          "notes": "See Note 1"
+        },
+        {
+          "amount": "⅓",
+          "unit": "medium",
+          "name": "onion",
+          "notes": "finely diced"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "vegetable oil",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "name": "egg",
+          "notes": ""
+        },
+        {
+          "amount": "⅓",
+          "unit": "cup",
+          "name": "panko bread crumbs",
+          "notes": "See Note 2"
+        },
+        {
+          "amount": "2 ½",
+          "unit": "Tablespoons",
+          "name": "milk",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoons",
+          "name": "ketchup",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "Worcestershire sauce",
+          "notes": ""
+        },
+        {
+          "amount": "¾",
+          "unit": "teaspoon",
+          "name": "sea salt",
+          "notes": ""
+        },
+        {
+          "amount": "½",
+          "unit": "teaspoon",
+          "name": "pepper",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "cloves",
+          "name": "garlic",
+          "notes": "(optional) minced"
+        },
+        {
+          "amount": "¼",
+          "unit": "cup",
+          "name": "red wine",
+          "notes": "to steam patty"
+        }
+      ]
+    },
+    {
+      "name": "Sauce",
+      "ingredients": [
+        {
+          "amount": "⅓",
+          "unit": "cup",
+          "name": "ketchup",
+          "notes": ""
+        },
+        {
+          "amount": "3",
+          "unit": "Tablespoons",
+          "name": "Worcestershire sauce",
+          "notes": ""
+        },
+        {
+          "amount": "3",
+          "unit": "Tablespoons",
+          "name": "water or stock",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "Tablespoons",
+          "name": "butter",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoons",
+          "name": "sugar",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Optional for serving",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "name": "steamed broccoli and carrots",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "steamed rice",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Saute onions : Heat a pan over medium high heat and add the vegetable oil and diced onions. Saute until softened. Remove and set aside.",
+        "Mix: In a large bowl, mix together the ground beef, sauteed onions, egg, panko bread crumbs, milk, ketchup, Worcestershire, sea salt, pepper, and garlic. Mix well until it becomes a smooth texture.",
+        "Form hamburger steaks: Divide the patties into four sections and form into tight oval patties. Lightly oil hands for easier shaping. See Note 3.",
+        "Cook: Lightly oil a large pan and heat over medium high heat. Add the hamburger steak and cook each side for 3 to 4 minutes. Then add the red wine and cover to steam until the steak patties are fully cooked (internal temperature of 160° F). Remove and set aside.",
+        "Make sauce: Using the same pan, reduce heat to low and add the ingredients for the sauce. Stir until it it starts to bubble. Turn off heat and serve with hamburger steaks. See Note 4."
+      ]
+    }
+  ],
+  "notes": "Notes\nGround meat\n- You can opt to use a combination of ground beef and pork. Keep the ground beef to at least 60% for best flavor. Otherwise, if you prefer a beefier flavor, use 100% ground beef. I used 85% lean.\nPanko bread crumbs\n- Substitute with regular unseasoned bread crumbs. If you opt to use seasoned bread crumbs, leave out salt as it may be too salty.\nForming hambagu steaks\n- Remove air pockets from the patty by tossing back and forth between your hands. This helps keep its shape during cooking.\nSauce\n- If preferred,\nwipe off excess grease from the pan first.\nFor a thinner sauce, increase the amount of water a Tablespoon at a time and add more salt and sugar to your liking.\nLeftovers\n- Store leftover hamburger steaks in an airtight container and keep in the fridge for up to 3 days.",
+  "image_url": "https://drivemehungry.com/wp-content/uploads/2021/07/japanese-hamburger-steak-hambagu-6.jpg",
+  "id": "japanese-hamburger-steak-hambagu",
+  "date_added": "2026-04-26"
+}

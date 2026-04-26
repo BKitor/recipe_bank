@@ -1,0 +1,420 @@
+Traceback (most recent call last):
+  File "/home/bkitor/Projects/recipe_bank/scripts/batch_import.py", line 25, in main
+    import_file(f, dry_run=dry_run)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 651, in import_file
+    data = parse_with_claude(text, extract_saved_url(content))
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 520, in parse_with_claude
+    raise RuntimeError(
+    ...<3 lines>...
+    )
+RuntimeError: This recipe format requires the Claude API to parse.
+  Set your API key and retry:
+
+    export ANTHROPIC_API_KEY=sk-ant-...
+Traceback (most recent call last):
+  File "/home/bkitor/Projects/recipe_bank/scripts/batch_import.py", line 25, in main
+    import_file(f, dry_run=dry_run)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 651, in import_file
+    data = parse_with_claude(text, extract_saved_url(content))
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 520, in parse_with_claude
+    raise RuntimeError(
+    ...<3 lines>...
+    )
+RuntimeError: This recipe format requires the Claude API to parse.
+  Set your API key and retry:
+
+    export ANTHROPIC_API_KEY=sk-ant-...
+Found 74 files to import.
+
+Importing: AlooPalak_or_SaagAloo.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/30-minute-aloo-palak-spinach-and-potato-curry.json
+
+Importing: Arayes.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/crispy-lebanese-meat-stuffed-pita-arayes.json
+
+Importing: Baked Chicken Parmesan.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/baked-chicken-parmesan.json
+
+Importing: Bastardized_chicken_curry.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/easy-chicken-curry.json
+
+Importing: Beef Enchiladas.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/beef-enchiladas.json
+
+Importing: Beef Stroganoff.html
+  Strategy: tasty
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/30-minute-beef-stroganoff.json
+
+Importing: Beef and Spinach Noodles.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/beef-and-spinach-noodles.json
+
+Importing: ButterChicken.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/easy-butter-chicken-recipe.json
+
+Importing: CauliflowerChickenAlfredo.html
+  Strategy: claude_api
+  Strategy: claude_api (unrecognized HTML)
+
+Importing: Chicken Fricassee.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/chicken-fricassee.json
+
+Importing: Chicken Pan Sauce.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/chicken-pan-sauce.json
+
+Importing: ChickenCacciatore.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/easy-chicken-cacciatore-recipe.json
+
+Importing: ChickenEnchiladas.html
+  Strategy: tasty
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/chicken-enchiladas.json
+
+Importing: ChickenMarsala.html
+  Strategy: json_ld
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/chicken-marsala.json
+
+Importing: ChickenOrzoMushroomsAndSpinach.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/creamy-chicken-orzo-with-mushrooms-and-spinach-30-minutes-one-pan.json
+
+Importing: ChickenPotPieCasserole.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/chicken-pot-pie-casserole.json
+
+Importing: ChickenStewandDumplings.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/chicken-and-dumplings.json
+
+Importing: ChickenTikkaMasala.html
+  Strategy: wprm_html
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/easy-chicken-tikka-masala.json
+
+Importing: Chilli.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/the-best-classic-chili-recipe.json
+
+Importing: Cilantro Lime Chicken.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/easy-cilantro-lime-chicken.json
+
+Importing: Cornbread.html
+  Strategy: tasty
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/my-favorite-cornbread-recipe.json
+
+Importing: CowboyBeans.html
+  Strategy: serious_eats
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/frijoles-charros-mexican-pinto-beans-with-bacon-and-chiles-recipe.json
+
+Importing: Creamy Tuscan Chicken.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/the-ultimate-creamy-tuscan-chicken.json
+
+Importing: GarlicCollardGreens.html
+  Strategy: tasty
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/quick-collard-greens.json
+
+Importing: GreekLemonPotatoes.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/greek-lemon-potatoes.json
+
+Importing: Hambagu.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/melt-in-your-mouth-japanese-hamburger-steak.json
+
+Importing: Hamberger_helper.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/homemade-hamburger-helper-recipe.json
+
+Importing: Hambāgu.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/japanese-hamburger-steak-hambagu.json
+
+Importing: Instant Pot Chicken Biryani.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/instant-pot-chicken-biryani.json
+
+Importing: Instant Pot Chicken Pulao - Tea for Turmeric.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/instant-pot-chicken-pulao.json
+
+Importing: InstantPotVegetableBiryani.html
+  Strategy: wprm_html
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/easy-instant-pot-vegetable-biryani.json
+
+Importing: KenjiMashedPotatoes.html
+  Strategy: serious_eats
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/ultra-fluffy-mashed-potatoes.json
+
+Importing: KoobidehKebab.html
+  Strategy: wprm_html
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/koobideh-kebab-recipe.json
+
+Importing: KoreanGroundBeef.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/korean-ground-beef-and-rice-bowls.json
+
+Importing: LemonGarlicPorkRoast.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/lemon-garlic-pork-roast.json
+
+Importing: LimeChicken.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/dry-lime-marinade-for-chicken.json
+
+Importing: Meatloaf.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/the-best-meatloaf-recipe.json
+
+Importing: Mexican Black Beans.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/mexican-black-beans-recipe.json
+
+Importing: Mini Cheesecakes.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/mini-cheesecakes.json
+
+Importing: MommysMacAndCheese.html
+  Strategy: json_ld
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/just-as-easy-macaroni-and-cheese.json
+
+Importing: OnePanMexicanChickeandRice.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/one-pan-mexican-chicken-and-rice.json
+
+Importing: Pasta e Fagioli - Budget Bytes.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/pasta-e-fagioli.json
+
+Importing: Polenta_from_the_tube.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/creamy-polenta-from-a-tube.json
+
+Importing: Pork Chops with Mushroom Gravy.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/pork-chops-with-mushroom-gravy.json
+
+Importing: PorkChopswithGravy.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/pan-seared-pork-chops-with-gravy.json
+
+Importing: Refried Beans.html
+  Strategy: json_ld
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/easy-refried-beans.json
+
+Importing: SalisburySteak.html
+  Strategy: wprm_html
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/salisbury-steak-with-mushroom-gravy.json
+
+Importing: SatayPeanutStir.html
+  Strategy: wprm_html
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/quick-satay-peanut-stir-fry-any-protein.json
+
+Importing: SheetPanSausageandVeggies.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/healthy-20-minute-sheet-pan-sausage-and-veggies.json
+
+Importing: SpaghettiAllaNerano_zucchini.html
+  Strategy: wprm_html
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/spaghetti-alla-nerano.json
+
+Importing: Spanish Rice.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/spanish-rice.json
+
+Importing: SquashSoup .html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/butternut-squash-soup.json
+
+Importing: StirFry.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/chicken-broccoli-stir-fry-recipe.json
+
+Importing: Tajine Maadnous _ Based Cooking.html
+  Strategy: claude_api
+  Strategy: claude_api (unrecognized HTML)
+
+Importing: Thai Green Curry.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/thai-green-curry.json
+
+Importing: Tourtiere.html
+  Strategy: wprm_js
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/tourtiere-canadian-meat-pie.json
+
+Importing: basic-ragu-bolognese-recipe.htmlTraceback (most recent call last):
+  File "/home/bkitor/Projects/recipe_bank/scripts/batch_import.py", line 25, in main
+    import_file(f, dry_run=dry_run)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 651, in import_file
+    data = parse_with_claude(text, extract_saved_url(content))
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 520, in parse_with_claude
+    raise RuntimeError(
+    ...<3 lines>...
+    )
+RuntimeError: This recipe format requires the Claude API to parse.
+  Set your API key and retry:
+
+    export ANTHROPIC_API_KEY=sk-ant-...
+Traceback (most recent call last):
+  File "/home/bkitor/Projects/recipe_bank/scripts/batch_import.py", line 25, in main
+    import_file(f, dry_run=dry_run)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 651, in import_file
+    data = parse_with_claude(text, extract_saved_url(content))
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 520, in parse_with_claude
+    raise RuntimeError(
+    ...<3 lines>...
+    )
+RuntimeError: This recipe format requires the Claude API to parse.
+  Set your API key and retry:
+
+    export ANTHROPIC_API_KEY=sk-ant-...
+Traceback (most recent call last):
+  File "/home/bkitor/Projects/recipe_bank/scripts/batch_import.py", line 25, in main
+    import_file(f, dry_run=dry_run)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 651, in import_file
+    data = parse_with_claude(text, extract_saved_url(content))
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 520, in parse_with_claude
+    raise RuntimeError(
+    ...<3 lines>...
+    )
+RuntimeError: This recipe format requires the Claude API to parse.
+  Set your API key and retry:
+
+    export ANTHROPIC_API_KEY=sk-ant-...
+Traceback (most recent call last):
+  File "/home/bkitor/Projects/recipe_bank/scripts/batch_import.py", line 25, in main
+    import_file(f, dry_run=dry_run)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 651, in import_file
+    data = parse_with_claude(text, extract_saved_url(content))
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 520, in parse_with_claude
+    raise RuntimeError(
+    ...<3 lines>...
+    )
+RuntimeError: This recipe format requires the Claude API to parse.
+  Set your API key and retry:
+
+    export ANTHROPIC_API_KEY=sk-ant-...
+Traceback (most recent call last):
+  File "/home/bkitor/Projects/recipe_bank/scripts/batch_import.py", line 25, in main
+    import_file(f, dry_run=dry_run)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 627, in import_file
+    data = parse_with_claude(text, source_url=None)
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 520, in parse_with_claude
+    raise RuntimeError(
+    ...<3 lines>...
+    )
+RuntimeError: This recipe format requires the Claude API to parse.
+  Set your API key and retry:
+
+    export ANTHROPIC_API_KEY=sk-ant-...
+Traceback (most recent call last):
+  File "/home/bkitor/Projects/recipe_bank/scripts/batch_import.py", line 25, in main
+    import_file(f, dry_run=dry_run)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 627, in import_file
+    data = parse_with_claude(text, source_url=None)
+  File "/home/bkitor/Projects/recipe_bank/scripts/import_recipe.py", line 520, in parse_with_claude
+    raise RuntimeError(
+    ...<3 lines>...
+    )
+RuntimeError: This recipe format requires the Claude API to parse.
+  Set your API key and retry:
+
+    export ANTHROPIC_API_KEY=sk-ant-...
+
+  Strategy: serious_eats
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/basic-ragu-bolognese-recipe.json
+
+Importing: carnitas_bowl_meal_prep.OpenClanker.html
+  Strategy: claude_api
+  Strategy: claude_api (unrecognized HTML)
+
+Importing: chicken-tinga.html
+  Strategy: serious_eats
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/easy-one-pot-chicken-tinga-mexican-shredded-chicken-stew.json
+
+Importing: foolproof-pan-pizza-recipe.html
+  Strategy: serious_eats
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/foolproof-pan-pizza.json
+
+Importing: high_protein_sweet_sour_meatballs.html
+  Strategy: claude_api
+  Strategy: claude_api (unrecognized HTML)
+
+Importing: korean_red_beans_rice_bulgogi.OpenClanker.html
+  Strategy: claude_api
+  Strategy: claude_api (unrecognized HTML)
+
+Importing: lasagna-bolognese.html
+  Strategy: serious_eats
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/all-day-meat-lasagna.json
+
+Importing: new-orleans-style-red-beans-rice-recipe.html
+  Strategy: serious_eats
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/new-orleansstyle-red-beans-and-rice-recipe.json
+
+Importing: pasta-alla-genovese-neapolitan-beef-ragu.html
+  Strategy: serious_eats
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/pasta-alla-genovese-pasta-with-neapolitan-beef-and-onion-ragu.json
+
+Importing: pasta-amatriciana.html
+  Strategy: serious_eats
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/bucatini-allamatriciana.json
+
+Importing: pork-ragu-pappardelle.html
+  Strategy: serious_eats
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/pappardelle-with-tuscan-pork-ragu.json
+
+Importing: pressure-cooker-ground-beef-and-bean-chili.html
+  Strategy: serious_eats
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/pressure-cooker-ground-beef-and-bean-chili-recipe.json
+
+Importing: refried-beans.html
+  Strategy: serious_eats
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/perfect-frijoles-refritos-mexican-refried-beans-recipe.json
+
+Importing: shepherds-pie-beef-lamb-recipe.html
+  Strategy: serious_eats
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/classic-savory-shepherds-pie-with-beef-andor-lamb.json
+
+Importing: the-best-chili-recipe-kenji.html
+  Strategy: serious_eats
+  Written: /home/bkitor/Projects/recipe_bank/src/recipes/the-best-chili-ever.json
+
+Importing: turkey meatloaf for skeptics.html
+  Strategy: claude_api
+  Strategy: claude_api (unrecognized HTML)
+
+Importing: Magic Cookie Bars Recipe.pdf
+  Strategy: claude_api (PDF)
+
+Importing: Print_ Stovetop Butter Chicken _ The Modern Proper.pdf
+  Strategy: claude_api (PDF)
+
+
+Done. 66/74 imported successfully.
+
+Failed files:
+  CauliflowerChickenAlfredo.html
+  Tajine Maadnous _ Based Cooking.html
+  carnitas_bowl_meal_prep.OpenClanker.html
+  high_protein_sweet_sour_meatballs.html
+  korean_red_beans_rice_bulgogi.OpenClanker.html
+  turkey meatloaf for skeptics.html
+  Magic Cookie Bars Recipe.pdf
+  Print_ Stovetop Butter Chicken _ The Modern Proper.pdf

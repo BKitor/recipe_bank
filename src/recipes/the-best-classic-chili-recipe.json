@@ -1,0 +1,133 @@
+{
+  "title": "The Best Classic Chili Recipe",
+  "source_url": "https://www.thewholesomedish.com/the-best-classic-chili/",
+  "description": "The Best Classic Chili - This traditional chili recipe is just like mom used to make with ground beef, beans, and a simple homemade blend of chili seasonings.",
+  "prep_time_min": 5,
+  "cook_time_min": 25,
+  "total_time_min": 30,
+  "servings": "6",
+  "tags": [
+    "Dinner",
+    "Entree",
+    "Main Course",
+    "American",
+    "best chili",
+    "chili recipe",
+    "classic chili",
+    "homemade chili"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "medium",
+          "name": "yellow onion",
+          "notes": "-diced"
+        },
+        {
+          "amount": "1",
+          "unit": "pound",
+          "name": "90% lean ground beef",
+          "notes": ""
+        },
+        {
+          "amount": "2 1/2",
+          "unit": "tablespoons",
+          "name": "chili powder",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoons",
+          "name": "ground cumin",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoons",
+          "name": "granulated sugar",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoons",
+          "name": "tomato paste",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "garlic powder",
+          "notes": ""
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "teaspoons",
+          "name": "salt",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "name": "ground black pepper",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "name": "ground cayenne pepper*",
+          "notes": "-optional"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cups",
+          "name": "beef broth",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "(15 oz.) can",
+          "name": "petite diced tomatoes",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "(16 oz.) can",
+          "name": "red kidney beans, drained and rinsed",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "(8 oz.) can",
+          "name": "tomato sauce",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Add the olive oil to a large soup pot and place it over medium-high heat for two minutes.  Add the onion.  Cook for 5 minutes, stirring occasionally.",
+        "Add the ground beef to the pot.  Break it apart with a wooden spoon.  Cook for 6-7 minutes, until the beef is browned, stirring occasionally.",
+        "Add the chili powder, cumin, sugar, tomato paste, garlic powder, salt, pepper, and optional cayenne.  Stir until well combined.",
+        "Add the broth, diced tomatoes (with their juice), drained beans, and tomato sauce.  Stir well.",
+        "Bring the liquid to a low boil.  Then, reduce the heat (low to medium-low) to gently simmer the chili, uncovered, for 20-25 minutes, stirring occasionally.",
+        "Remove the pot from the heat.  Let the chili rest for 5-10 minutes before serving."
+      ]
+    }
+  ],
+  "notes": "Notes\nI typically skip the cayenne pepper because I have a young kiddo.  Then, I put out some hot sauce for those adults that want to add some spiciness to their chili.",
+  "image_url": "https://www.thewholesomedish.com/wp-content/uploads/2018/05/The-Best-Classic-Chili-550.jpg",
+  "id": "the-best-classic-chili-recipe",
+  "date_added": "2026-04-26"
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Baked Chicken Parmesan",
+  "source_url": "https://www.wellplated.com/baked-chicken-parmesan/",
+  "description": "The BEST baked chicken Parmesan recipe, ready in 30 minutes! Easy and healthy, it's crispy, cheesy, and perfect with pasta or on its own.",
+  "prep_time_min": 10,
+  "cook_time_min": 20,
+  "total_time_min": 30,
+  "servings": "4",
+  "tags": [],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "",
+          "name": "boneless, skinless chicken breasts",
+          "notes": "about 12 ounces each"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "name": "Italian seasoned breadcrumbs",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "name": "whole wheat Panko breadcrumbs",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "name": "freshly grated Parmesan cheese",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "name": "garlic powder",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "name": "black pepper",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "large",
+          "name": "egg whites",
+          "notes": ""
+        },
+        {
+          "amount": "4",
+          "unit": "ounces",
+          "name": "part-skim mozzarella",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "name": "high-quality jarred tomato sauce",
+          "notes": "plus extra for serving as desired"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Fresh basil",
+          "notes": "thinly sliced or chopped"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Optional for serving:",
+          "notes": "prepared whole wheat spaghetti or zucchini noodles, or just enjoy on its own!"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Preheat your oven to 400°F. Lightly coat a baking sheet with cooking spray. Cut each chicken breast in half lengthwise, so you have 4 pieces total. Pound each piece to an even 1/2-inch thickness. Set aside.",
+        "In a wide, shallow bowl (a pie dish works well), combine the Italian breadcrumbs, whole wheat Panko breadcrumbs, Parmesan, garlic powder, and pepper. In a separate bowl, whisk together the egg whites until lightly foamy. Cut the mozzarella into 4 slices, or grate and divide into four equal portions.",
+        "Arrange your workstation in the following order: pounded chicken, egg whites, breadcrumb mixture, then the baking sheet. Working one at a time, dip each piece of chicken into the egg whites, shaking off any excess, then the breadcrumbs, gently patting the chicken as needed so that the crumbs stick to all sides.",
+        "Place on the prepared baking sheet. Lightly coat the tops of the chicken with cooking spray. Bake until the chicken reaches an internal temperature of 160°F (use an instant-read thermometer to check for doneness) and the crumbs are brown, about 15 minutes. (Per the FDA, chicken is cooked through at 165°F, but its temperature will continue to rise after it is removed from the oven.)",
+        "Remove from the oven, spoon 2 tablespoons of sauce over each piece of chicken, and top with a slice of mozzarella cheese. Return to the oven and bake until the cheese is melted, about 3-5 additional minutes.",
+        "Sprinkle with basil and enjoy immediately, topped with extra sauce as desired."
+      ]
+    }
+  ],
+  "notes": "Notes\nTO STORE\n: This recipe is best enjoyed the day it is baked, but leftovers can be refrigerated in an airtight storage container for up to 2 days.\nTO REHEAT\n: Leftover chicken can be reheated in a lightly greased pan over medium heat.\nTO FREEZE\n: Freeze chicken in an airtight freezer-safe storage container for up to 3 months.",
+  "image_url": "https://www.wellplated.com/wp-content/uploads/2017/01/Healthy-Baked-Chicken-Parmesan-96x96.jpg",
+  "id": "baked-chicken-parmesan",
+  "date_added": "2026-04-26"
+}

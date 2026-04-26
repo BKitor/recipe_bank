@@ -1,0 +1,109 @@
+{
+  "title": "Beef and Spinach Noodles",
+  "source_url": "https://www.servedfromscratch.com/beef-and-spinach-noodles/",
+  "description": "These Beef and Spinach Noodles are incredibly easy to make, ready in 30 minutes, packed with a ton of spinach, and a family favorite!",
+  "prep_time_min": 5,
+  "cook_time_min": 20,
+  "total_time_min": 25,
+  "servings": "4",
+  "tags": [
+    "Course",
+    "Main Course",
+    "Cuisine",
+    "Asian"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "10",
+          "unit": "oz",
+          "name": "noodles, linguine or spaghetti",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "lb",
+          "name": "ground beef",
+          "notes": "80% or 85% lean"
+        },
+        {
+          "amount": "8",
+          "unit": "cups",
+          "name": "packed baby spinach",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "name": "white onion",
+          "notes": "sliced thin"
+        },
+        {
+          "amount": "4",
+          "unit": "cloves",
+          "name": "fresh garlic",
+          "notes": ""
+        },
+        {
+          "amount": "3",
+          "unit": "tablespoons",
+          "name": "soy sauce",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoons",
+          "name": "sesame oil",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "hoisin",
+          "notes": "or brown sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "garlic chili paste",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Sriracha",
+          "notes": "to top at end"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Heat a large pot of salted water on high and bring to a boil.",
+        "Heat olive oil in a 12 inch cast iron or saute pan on medium/high.",
+        "Fill a large pot with water and heat on high to bring to a boil for the pasta.",
+        "Add beef and saute while breaking up with wooden spoon, 6 - 8 minutes.",
+        "While beef is cooking, in a small bowl, mix together the soy sauce, sesame oil, hoisen, and garlic chili paste",
+        "Once water has come to a boil, add linguine and cook al dente until approximately 7 minutes.  Drain and set aside.",
+        "Once beef is cooked, drain most of the fat from the ground beef and then add onions and garlic.  Watch and stir often while the onions and garlic crisps. Turn heat down if onions begin to burn, but keep at at least medium. Cook for about 5 minutes.",
+        "Turn heat down to medium and add 1/2 of the spinach to the pan and turn with tongs to cook.  Let spinach wilt and then add rest of spinach and continue to turn with tongs in pan while it cooks, both batches about 5 minutes.",
+        "When spinach is wilted turn down heat to medium low.  Add cooked pasta to saute pan and stir well.  Pour in soy mixture and with tongs coat pasta, spinach, and beef with sauce.",
+        "Serve hot and top with Sriracha as desired!"
+      ]
+    }
+  ],
+  "notes": "Notes\nSub for regular linguine, rice linguine, or spaghetti.\nYou definitely want tongs to be able to turn to spinach while it cooks but then also to turn the noodles.\nDrain the ground beef otherwise the noodles will be a little greasy.\nUse those tongs and really stir it all up and make sure that the noodles really soak up all that sauce!",
+  "image_url": "https://www.servedfromscratch.com/wp-content/uploads/2020/05/Spinach-and-Beef-Noodles-12-700x700.jpg",
+  "id": "beef-and-spinach-noodles",
+  "date_added": "2026-04-26"
+}

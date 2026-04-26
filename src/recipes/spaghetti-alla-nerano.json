@@ -1,0 +1,79 @@
+{
+  "title": "Spaghetti alla Nerano",
+  "source_url": "https://memoriediangelina.com/2017/09/09/spaghetti-alla-nerano/",
+  "description": null,
+  "prep_time_min": null,
+  "cook_time_min": 30,
+  "total_time_min": null,
+  "servings": null,
+  "tags": [
+    "Primo",
+    "Campania",
+    "pasta"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "500",
+          "unit": "g",
+          "name": "(1 lb) spaghetti",
+          "notes": ""
+        },
+        {
+          "amount": "750",
+          "unit": "g",
+          "name": "(1-1/2 lbs) zucchini, sliced into thin rounds",
+          "notes": ""
+        },
+        {
+          "amount": "250",
+          "unit": "g",
+          "name": "(1/2 lb) provolone cheese, grated (see Notes)",
+          "notes": ""
+        },
+        {
+          "amount": "2-3",
+          "unit": "",
+          "name": "garlic cloves",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "A few basil leaves",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Salt and pepper",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Fry the zucchini slices in oil (preferably olive oil) until they are lightly browned. Proceed in batches if your skillet isn't large enough to hold all the slices in a single layer. As they are done, lay the fried zucchini slices on paper towels to absorb the excess oil. Sprinkle lightly with salt.",
+        "Bring a large pot of water to the boil, salt well, and throw in the spaghetti. Cook until very al dente.",
+        "While the spaghetti is cooking, in a large skillet or sauté pan, sauté the garlic lightly in olive oil. Remove the garlic.",
+        "When the pasta is done, drain it, but not too well. Add the zucchini rounds and then then pasta to the skillet and a ladleful of pasta water. (If you want, reserve some of the zucchini for garnish.) Mix everything together vigorously for a minute or two. (The zucchini rounds are bound to break up, but that's normal.) Then add the grated cheese and some more basil leaves, and continue mixing until the cheese has completed melted into a creamy sauce, adding more pasta water if need be to keep things flowing smoothly.",
+        "Serve your spaghetti right away, topped with the remaining zucchini slices for garnish, along with perhaps a basil leaf or two."
+      ]
+    }
+  ],
+  "notes": null,
+  "image_url": "https://i0.wp.com/memoriediangelina.com/wp-content/uploads/2017/09/Nerano-2-1.jpg?resize=120%2C120&ssl=1",
+  "id": "spaghetti-alla-nerano",
+  "date_added": "2026-04-26"
+}

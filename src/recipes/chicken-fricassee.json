@@ -1,0 +1,104 @@
+{
+  "title": "Chicken Fricassee",
+  "source_url": "https://natashaskitchen.com/chicken-fricassee/",
+  "description": "This Chicken Fricassee is braised in a creamy white wine sauce making the chicken tender with rich flavor. Serve over mashed potatoes or rice with crusty bread.",
+  "prep_time_min": 10,
+  "cook_time_min": 60,
+  "total_time_min": 70,
+  "servings": "6",
+  "tags": [],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "Tbsp",
+          "name": "olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "8",
+          "unit": "",
+          "name": "chicken thighs and legs",
+          "notes": "combined"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "salt and pepper",
+          "notes": "to taste"
+        },
+        {
+          "amount": "1",
+          "unit": "Tbsp",
+          "name": "unsalted butter",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "name": "small onion",
+          "notes": "chopped"
+        },
+        {
+          "amount": "2",
+          "unit": "cloves",
+          "name": "garlic",
+          "notes": "minced"
+        },
+        {
+          "amount": "2",
+          "unit": "",
+          "name": "carrots",
+          "notes": "cut in large pieces"
+        },
+        {
+          "amount": "3-4",
+          "unit": "sprigs",
+          "name": "thyme",
+          "notes": "(leaves only)"
+        },
+        {
+          "amount": "2",
+          "unit": "Tbsp",
+          "name": "all-purpose flour",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "name": "dry white wine",
+          "notes": "such as Sauvignon Blanc"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "name": "chicken stock",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "name": "heavy cream",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Preheat oven to 350 F. Pat dry chicken with a paper towel and season with salt and pepper. Place a large deep pan over medium/high heat with 1 Tbsp olive oil. Brown chicken approximately 4 minutes per side until golden on each side but not cooked through. Remove to a plate and set aside until needed. Discard excess fat leaving 1 Tbsp in the pan.",
+        "Add 1 Tbsp butter to the pan and saute chopped onions and carrots over low heat for 7-10 minutes. Add minced garlic and fresh thyme leaves and cook briefly for 30 seconds. Add 2 Tbsp flour and cook while stirring until flour is completely absorbed by the fat and mixture smells nutty. Add 1/2 cup white wine and simmer until slightly reduced. Pour in 1 1/2 cups chicken stock.",
+        "Return chicken to the pan together with the juices and bake uncovered at 350˚F for 45 minutes.",
+        "Take the chicken out of the oven and add 1/2 cup heavy cream, stir until combined. Taste and season with salt if needed."
+      ]
+    }
+  ],
+  "notes": null,
+  "image_url": "https://natashaskitchen.com/wp-content/uploads/2019/03/Chicken-Fricassee-3-Edit-2-794x794.jpg",
+  "id": "chicken-fricassee",
+  "date_added": "2026-04-26"
+}

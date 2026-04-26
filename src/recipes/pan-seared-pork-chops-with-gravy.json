@@ -1,0 +1,115 @@
+{
+  "title": "Pan Seared Pork Chops with Gravy",
+  "source_url": "https://www.jocooks.com/recipes/pan-seared-pork-chops-with-gravy/",
+  "description": "These Perfectly Pan Seared Pork Chops with Gravy are so easy to make, incredibly quick and perfectly tender! Jazz up your midweek dinner with these Pan Seared Pork Chops that come complete with a Pan Gravy!",
+  "prep_time_min": 10,
+  "cook_time_min": 20,
+  "total_time_min": 30,
+  "servings": "4",
+  "tags": [
+    "Main Course",
+    "American",
+    "pan seared pork chops",
+    "pork chops",
+    "pork chops with gravy"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "Pork Chops",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "butter",
+          "notes": "unsalted"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "4",
+          "unit": "",
+          "name": "pork chops",
+          "notes": "thick cut"
+        },
+        {
+          "amount": "½",
+          "unit": "teaspoon",
+          "name": "salt",
+          "notes": "or to taste"
+        },
+        {
+          "amount": "½",
+          "unit": "teaspoon",
+          "name": "pepper",
+          "notes": "or to taste"
+        }
+      ]
+    },
+    {
+      "name": "Gravy",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "butter",
+          "notes": "unsalted"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "all-purpose flour",
+          "notes": ""
+        },
+        {
+          "amount": "¾",
+          "unit": "cup",
+          "name": "half and half",
+          "notes": ""
+        },
+        {
+          "amount": "½",
+          "unit": "cup",
+          "name": "chicken broth",
+          "notes": "low sodium or no sodium added"
+        },
+        {
+          "amount": "¼",
+          "unit": "teaspoon",
+          "name": "salt",
+          "notes": "or to taste"
+        },
+        {
+          "amount": "¼",
+          "unit": "teaspoon",
+          "name": "pepper",
+          "notes": "or to taste"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "Pork Chops",
+      "steps": [
+        "Add the butter and oil to a large skillet and heat over medium-high heat. Add the chops and sear on all sides, about 4 to 6 minutes per side. Do not flip them over until properly seared on each side. Make sure to sear the sides of the chops as well, especially is using thicker cut pork chops.",
+        "If using a meat thermometer, check the internal temperature and cook until they reach 135℉. Transfer pork chops to a cutting board and let them rest for 10 minutes before slicing into them. The residual heat will bring the temperature up to 145℉."
+      ]
+    },
+    {
+      "name": "Gravy",
+      "steps": [
+        "In the same skillet add the butter and melt over medium heat. Whisk in the flour and cook for about 1 minute, whisking continuously, to remove the raw flour taste.",
+        "Whisk in the half and half and the chicken broth until smooth. Cook for a couple more minutes until the gravy thickens. Season with salt and pepper as needed.",
+        "Slice pork chops and serve with gravy and mashed potatoes ."
+      ]
+    }
+  ],
+  "notes": "Notes\nHalf and half\ncan be found near the milk and cream in the dairy section of your local grocery store. Half and half is a blend of equal parts whole milk and light cream. It averages 10 to 12% of fat.\nBake option:\nFollow the instructions as stated (make sure you use an oven safe skillet), but instead of fully cooking the pork chops on the stove top, sear them on all sides for 2 minutes, just until they are nice and golden. Transfer the skillet to the oven and cook for another 15 minutes at 400 F degrees or until the internal temperature reaches 135 F degrees. Let them rest for 10 minutes before slicing and serving.",
+  "image_url": "https://www.jocooks.com/wp-content/uploads/2018/09/pan-seared-pork-chops-with-gravy-1-125x125.jpg",
+  "id": "pan-seared-pork-chops-with-gravy",
+  "date_added": "2026-04-26"
+}

@@ -1,0 +1,176 @@
+{
+  "title": "Creamy Chicken Orzo with Mushrooms and Spinach (30-Minutes, ONE-PAN)",
+  "source_url": "https://juliasalbum.com/chicken-orzo-spinach-mushrooms/",
+  "description": "Creamy Chicken Orzo with Mushrooms and Spinach is a 30-minute one-pan well-balanced weeknight meal that has everything: protein, veggies, and pasta! Skinless boneless chicken thighs are pan-seared with paprika and Italian seasoning. It's the perfect comfort food that will surely become one of your family's favorite dinners! My other favorite quick and easy orzo pasta recipes are pesto chicken orzo with tomatoes and reader-favorite Tuscan shrimp orzo .",
+  "prep_time_min": 10,
+  "cook_time_min": 20,
+  "total_time_min": 30,
+  "servings": "6",
+  "tags": [
+    "Course",
+    "Main Course",
+    "Cuisine",
+    "American",
+    "Italian",
+    "Keyword",
+    "chicken orzo"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "Chicken",
+      "ingredients": [
+        {
+          "amount": "1.3",
+          "unit": "lb",
+          "name": "skinless boneless chicken thighs",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "Italian seasoning",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "paprika",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "name": "salt",
+          "notes": "or to taste"
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoons",
+          "name": "olive oil",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Mushrooms",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "8",
+          "unit": "oz",
+          "name": "baby bella mushrooms",
+          "notes": "or crimini"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "salt and pepper",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Creamy orzo",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "cup",
+          "name": "orzo",
+          "notes": "uncooked"
+        },
+        {
+          "amount": "2",
+          "unit": "cups",
+          "name": "chicken broth",
+          "notes": "or stock"
+        },
+        {
+          "amount": "5",
+          "unit": "cloves",
+          "name": "garlic",
+          "notes": "minced"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "name": "Italian seasoning",
+          "notes": "or Herbs from Provence"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "name": "paprika",
+          "notes": "or more"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "name": "salt",
+          "notes": "or more to taste"
+        },
+        {
+          "amount": "5",
+          "unit": "oz",
+          "name": "fresh spinach",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "name": "heavy cream",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "name": "red pepper flakes",
+          "notes": "or more to taste"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "Cook chicken",
+      "steps": [
+        "Season the chicken thighs with Italian seasoning, paprika, and salt.",
+        "Heat an empty, high-sided, heavy-bottomed skillet (such as a cast-iron or stainless steel pan) over medium heat for 2 minutes. This allows the skillet to heat through.",
+        "Add 2 tablespoons of olive oil. Add chicken thighs. Cook the chicken on medium heat for 5 minutes on one side, undisturbed. This allows the chicken to sear.",
+        "Flip the chicken thighs over, reduce heat to low-medium, and cook for about 5 more minutes or longer on the other side, without moving it, until it's cooked through.",
+        "The meat thermometer should register 165°F (74°C) in the thickest part of the chicken. Remove the chicken from the skillet."
+      ]
+    },
+    {
+      "name": "Cook mushrooms",
+      "steps": [
+        "Add sliced mushrooms, generously seasoned with salt and pepper, to the same, now empty, skillet. Cook on medium heat for about 2 minutes (flipping once) until lightly browned and softened. Remove half of the cooked mushrooms from the skillet to a plate."
+      ]
+    },
+    {
+      "name": "Make creamy orzo",
+      "steps": [
+        "Add uncooked orzo, chicken broth, minced garlic, Italian seasoning, paprika, and ¼ teaspoon salt to the same skillet with half of the cooked mushrooms.",
+        "Bring to a boil, then reduce to a simmer (medium-low) and cook for about 5 or 10 minutes, occasionally stirring to prevent the orzo from sticking to the bottom of the pan until the orzo is cooked through.",
+        "Add fresh spinach during the last 5 minutes of cooking the orzo.",
+        "Add ½ cup of cream. Stir everything on low-medium - do not bring the sauce to a boil.",
+        "Season with salt and red pepper flakes, if desired."
+      ]
+    },
+    {
+      "name": "Assembly",
+      "steps": [
+        "Stir in the remaining half of cooked mushrooms.",
+        "Return cooked chicken to the skillet. Reheat gently on low heat."
+      ]
+    }
+  ],
+  "notes": "Notes\nMake it DAIRY-FREE\nusing unsweetened coconut milk (full-fat or lite), oat, or almond milk instead of ½ cup of cream.\nMake it GLUTEN-FREE\nusing GF orzo or long-grain rice with similar cooking times (or adjust cooking times and liquid amounts).\nYou can use half-and-half\ninstead of heavy cream to lighten it up.",
+  "image_url": "https://juliasalbum.com/wp-content/uploads/2024/01/creamy-chicken-orzo-with-mushrooms-and-spinach-recipe.jpg",
+  "id": "creamy-chicken-orzo-with-mushrooms-and-spinach-30-minutes-one-pan",
+  "date_added": "2026-04-26"
+}

@@ -1,0 +1,234 @@
+{
+  "title": "Chicken and Dumplings",
+  "source_url": "https://thecozycook.com/chicken-and-dumplings/",
+  "description": "This Chicken and Dumplings recipe is easy to make with homemade dumplings or refrigerated biscuits right on the stove top. Your family will love this simple comfort food dinner!",
+  "prep_time_min": 20,
+  "cook_time_min": 40,
+  "total_time_min": 60,
+  "servings": "6",
+  "tags": [
+    "Main Course",
+    "American"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "lbs.",
+          "name": "bone-in skinless chicken breast or thighs",
+          "notes": "see notes"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Salt/Pepper",
+          "notes": "to taste"
+        },
+        {
+          "amount": "5",
+          "unit": "tablespoons",
+          "name": "butter",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "name": "small yellow onion",
+          "notes": "diced"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "name": "carrots",
+          "notes": "diced"
+        },
+        {
+          "amount": "2",
+          "unit": "",
+          "name": "sticks celery",
+          "notes": "diced"
+        },
+        {
+          "amount": "3",
+          "unit": "cloves",
+          "name": "garlic",
+          "notes": "minced"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "Worcestershire sauce",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "Teaspoon",
+          "name": "hot sauce",
+          "notes": "I use Franks hot sauce"
+        },
+        {
+          "amount": "1/3",
+          "unit": "cup",
+          "name": "flour",
+          "notes": ""
+        },
+        {
+          "amount": "4 ½",
+          "unit": "cups",
+          "name": "chicken broth",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "name": "chicken bouillon cube",
+          "notes": "optional"
+        },
+        {
+          "amount": "1 ½",
+          "unit": "cups",
+          "name": "half and half",
+          "notes": ""
+        },
+        {
+          "amount": "¾",
+          "unit": "cup",
+          "name": "frozen peas",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Seasonings",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "onion powder",
+          "notes": ""
+        },
+        {
+          "amount": "½",
+          "unit": "teaspoon",
+          "name": "EACH: dried basil, parsley, thyme, rosemary, mustard powder",
+          "notes": ""
+        },
+        {
+          "amount": "¼",
+          "unit": "teaspoon",
+          "name": "ground sage",
+          "notes": ""
+        },
+        {
+          "amount": "1/8",
+          "unit": "teaspoon",
+          "name": "pepper",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Dumplings",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "cups",
+          "name": "cake flour",
+          "notes": "or regular flour, see notes"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoons",
+          "name": "baking powder",
+          "notes": ""
+        },
+        {
+          "amount": "½",
+          "unit": "teaspoon",
+          "name": "baking soda",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "salt",
+          "notes": ""
+        },
+        {
+          "amount": "½",
+          "unit": "teaspoon",
+          "name": "garlic powder",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoons",
+          "name": "sugar",
+          "notes": ""
+        },
+        {
+          "amount": "¾",
+          "unit": "cup",
+          "name": "cold sour cream",
+          "notes": ""
+        },
+        {
+          "amount": "¼",
+          "unit": "cup",
+          "name": "cold milk",
+          "notes": ""
+        },
+        {
+          "amount": "4",
+          "unit": "tablespoons",
+          "name": "butter",
+          "notes": "melted"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "Sear the chicken:",
+      "steps": [
+        "Note: (Searing the chicken is optional, raw or cooked chicken can be added right to the broth in later steps. Searing first adds a lot of flavor to the soup pot which makes the broth more flavorful. It also adds color and texture to some of the chicken.)",
+        "Season each side of the chicken with salt and pepper. Heat olive oil in a 4 ½-quart soup pot over medium-high heat.",
+        "Add the chicken and cook for 3 minutes per side, until a little bit of a brown color has developed. The middle will still be uncooked. Let the chicken rest for 10 minutes, then dice into bite-sized pieces. (Discard the bones.)"
+      ]
+    },
+    {
+      "name": "Make the Soup",
+      "steps": [
+        "Combine the seasonings and set aside.",
+        "Melt the butter in the same pot over medium heat and use a silicone spatula to “clean” the bottom of the pot. Add the diced onions, carrots, and celery and cook for 5 minutes. Add the minced garlic, Worcestershire sauce, hot sauce, and seasonings . Cook for 1 more minute.",
+        "Add the flour and toss to coat. Cook for 2 minutes, stirring continuously.",
+        "Add the chicken broth in small splashes, stirring continuously. Scrape up any remnants from the bottom of the pot as you do so. Add the half and half in the same manner. Add the chicken bouillon , if using.",
+        "Add frozen peas. Bring to a gentle boil and let it simmer, uncovered, while you make the dumplings."
+      ]
+    },
+    {
+      "name": "Make the Dumplings",
+      "steps": [
+        "Combine the flour, baking powder, baking soda, salt, garlic powder, and sugar in a medium bowl.",
+        "Add the milk, sour cream, and melted butter. Use a folding motion to combine and form a dough, but don’t overmix or they will be dense.",
+        "Add the chicken back to the soup along with any juices from the plate. Stir to combine and reduce heat to low. (If using leftover chicken, add it now.)",
+        "Use a small cookie scoop and carefully place the dumplings over the soup in an even layer. Spoon a little liquid over each one.",
+        "Cover tightly and increase heat slightly to bring it to a gentle simmer. Set a timer for 15 minutes, don’t lift the lid during this time, the dumplings need to steam.",
+        "Open the lid and insert a toothpick into the middle of a dumpling to check for doneness. If it comes out clean, it’s ready. If not, cover and simmer for a few more minutes.",
+        "Once the middle is set, garnish with parsley and serve!"
+      ]
+    }
+  ],
+  "notes": "Notes\nPro Tips\nChicken:\nBone-in chicken breast or chicken thighs will add the most flavor to the broth. You can also use 2 large boneless/skinless chicken breasts or about 1.25 lbs.\nYou can also use\n3 cups cooked/leftover chicken.\nAdd it just before the dumplings are added, (when the freshly seared chicken is added back to the soup).\nFlour:\nCake flour endures a fluffier consistency, but regular flour may be used instead, (I have successfully used regular flour many times.)\nFlavor Enhancers:\nThe mustard powder and Worcestershire sauce are flavor enhancers in this recipe and can’t be tasted outright.\nSodium:\nTo control the sodium in this recipe, you can omit the bouillon cube and use unsalted butter, and/or low or no sodium chicken broth.\nBe sure to try my\nChicken Stew\nrecipe next! It's similar to this, but with potatoes instead of dumplings!",
+  "image_url": "https://thecozycook.com/wp-content/uploads/2021/12/Chicken-and-Dumplings-f-2-500x500.jpg",
+  "id": "chicken-and-dumplings",
+  "date_added": "2026-04-26"
+}

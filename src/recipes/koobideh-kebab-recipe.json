@@ -1,0 +1,86 @@
+{
+  "title": "Koobideh Kebab Recipe",
+  "source_url": "https://rookiewithacookie.com/koobideh-kebab-recipe/",
+  "description": "Seasoned with traditional Mediterranean spices, these Koobideh kebabs are perfection! Learn how to make flavorful and easy Persian Beef Koobideh!",
+  "prep_time_min": 15,
+  "cook_time_min": 16,
+  "total_time_min": 31,
+  "servings": "5",
+  "tags": [
+    "Course",
+    "Main Course",
+    "Cuisine",
+    "Mediterranean",
+    "Middle eastern",
+    "Keyword",
+    "beef koobideh",
+    "koobideh kebab"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "lb",
+          "name": "ground beef",
+          "notes": "80% lean 20% fat"
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "name": "yellow onion",
+          "notes": "grated and squeezed"
+        },
+        {
+          "amount": "¼",
+          "unit": "teaspoon",
+          "name": "turmeric",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "name": "garlic clove",
+          "notes": "minced"
+        },
+        {
+          "amount": "1 ¼",
+          "unit": "teaspoon",
+          "name": "salt",
+          "notes": "or to taste"
+        },
+        {
+          "amount": "¾",
+          "unit": "teaspoon",
+          "name": "black pepper",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "saffron water",
+          "notes": "optional"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "In a mixing bowl, add beef and all the remaining ingredients and mix well until you see the threads of fat run through the meat. You will need to apply gentle pressure almost like you're kneading the meat. *Be sure to squeeze out moisture from the grated onions using a cheese cloth.",
+        "Marinate for at least 25-30 mins.",
+        "When ready to bake, preheat the oven to 425F-450F and divide the kebabs into 5-6 balls.",
+        "Form one ball into a log by gently rolling in your palm and slide onto a flat skewer. Working fast, shape the kebabs onto the skewers till you get even thickness, then using your thumb and forefinger, create indentation marks that are characteristic of kebabs. Wet your hands as you work the meat.",
+        "Place the skewers on a baking tray to keep the meat elevated as it cooks.",
+        "Place the tray in the oven and bake for 7 mins on each side. Turn on the broiler for 2 more minutes. Total cooking time will be roughly 15-18 mins depending on your oven. If cooking on a charcoal grill, kebabs will usually cook in about 10-12 mins.",
+        "Once cooked, slide off the skewer immediately and serve with Persian-style Basmati rice, green sauce/tzatziki and roasted green chili."
+      ]
+    }
+  ],
+  "notes": "Notes\nBroiler is a setting on most residential ovens. It's located on the top section of the oven and when turned on applies direct heat to the food just from the top. If your oven doesn't have a broiler setting, then go ahead and bake the koobideh kebab at 450F, rotating halfway through.",
+  "image_url": "https://rookiewithacookie.com/wp-content/uploads/2024/03/IMG_3167-180x180.jpg",
+  "id": "koobideh-kebab-recipe",
+  "date_added": "2026-04-26"
+}

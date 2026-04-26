@@ -1,0 +1,145 @@
+{
+  "title": "Chicken Pot Pie Casserole",
+  "source_url": "https://barefeetinthekitchen.com/chicken-pot-pie-casserole/",
+  "description": "Tender chunks of chicken and vegetables are simmered together underneath a buttery, flaky biscuit topping to make this chicken pot pie casserole.",
+  "prep_time_min": null,
+  "cook_time_min": null,
+  "total_time_min": null,
+  "servings": "6",
+  "tags": [],
+  "ingredient_groups": [
+    {
+      "name": "Filling Ingredients",
+      "ingredients": [
+        {
+          "amount": "¼",
+          "unit": "cup",
+          "name": "butter",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "name": "small yellow onion, chopped small, about 1 cup",
+          "notes": ""
+        },
+        {
+          "amount": "½",
+          "unit": "cup",
+          "name": "celery, sliced very thin, about 2 ribs",
+          "notes": ""
+        },
+        {
+          "amount": "⅓",
+          "unit": "cup",
+          "name": "all-purpose flour",
+          "notes": ""
+        },
+        {
+          "amount": "1½",
+          "unit": "cups",
+          "name": "chicken broth",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "name": "milk",
+          "notes": ""
+        },
+        {
+          "amount": "½",
+          "unit": "teaspoon",
+          "name": "kosher salt",
+          "notes": ""
+        },
+        {
+          "amount": "¼",
+          "unit": "teaspoon",
+          "name": "black pepper",
+          "notes": ""
+        },
+        {
+          "amount": "¼",
+          "unit": "teaspoon",
+          "name": "celery seed",
+          "notes": ""
+        },
+        {
+          "amount": "4",
+          "unit": "cups",
+          "name": "cooked chicken, diced into ½-inch pieces",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "cups",
+          "name": "frozen mixed vegetables",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Topping Ingredients",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "cups",
+          "name": "all-purpose flour",
+          "notes": ""
+        },
+        {
+          "amount": "2½",
+          "unit": "teaspoons",
+          "name": "baking powder",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "kosher salt",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "sugar",
+          "notes": ""
+        },
+        {
+          "amount": "⅓",
+          "unit": "cup",
+          "name": "butter",
+          "notes": "grated"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "name": "milk",
+          "notes": "plus more ONLY as needed"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "To Make the Filling",
+      "steps": [
+        "Preheat oven to 425°F. Butter a 9x13 baking dish and set aside. In a large deep skillet, over medium-high heat, melt the butter. Add the onions and celery and cook until soft, about 3 minutes. Stir in flour. Slowly stir in chicken broth and whisk to combine.",
+        "Add the milk and salt, pepper, and celery seed. Reduce heat and simmer over medium-low heat until thickened, about 5 minutes. Add the chicken and vegetables. Stir to mix throughout. Pour the mixture into the prepared baking dish and set aside."
+      ]
+    },
+    {
+      "name": "To Make the Topping",
+      "steps": [
+        "In a mixing bowl, stir together the flour, baking powder, salt, and sugar.  Grate the butter and dump it into the bowl with the dry ingredients. Use a fork to mix in the cold butter pieces until the mixture resembles a coarse meal with little pea size or smaller lumps throughout.",
+        "Gradually stir in milk – do not dump all the milk in at once! Add just enough milk until the dough pulls away from the side of the bowl. It should still look somewhat dry and be a bit sticky.  Scoop the dough over the filling in the baking dish. (The largest scoop in this set is perfect for this.)",
+        "Bake for 14-18 minutes in the preheated oven, until the topping is golden brown, the biscuits are flaky, and the filling is bubbling. Cool for at least 10 minutes before serving."
+      ]
+    }
+  ],
+  "notes": null,
+  "image_url": "https://barefeetinthekitchen.com/wp-content/uploads/2023/01/Chicken-Pot-Pie-Casserole-BFK-8-1-of-1-500x500.jpg",
+  "id": "chicken-pot-pie-casserole",
+  "date_added": "2026-04-26"
+}
