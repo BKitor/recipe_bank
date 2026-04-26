@@ -1,0 +1,4 @@
+- Shouldn't be referenceing images from other websites, decouple as much as possible
+    - adopt into python tooling
+- Searches should only be applied to the title of the recepie, and use a better fuzzy matching algorithm
+    - Sort results by 'longest matching sequene', 
