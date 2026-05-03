@@ -1,0 +1,143 @@
+{
+  "title": "Tajine Maadnous",
+  "source_url": "https://based.cooking/tajine/",
+  "description": "Similar to an Italian frittata or Spanish tortilla, Tunisian tajine maadnous is an easy & delicious egg omelette filled with chicken, parsley, and spices.",
+  "prep_time_min": 20,
+  "cook_time_min": 35,
+  "total_time_min": null,
+  "servings": "12",
+  "tags": [
+    "Tunisian",
+    "Eggs"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 lb chicken breasts diced",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 medium onion chopped",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 large potato peeled and diced",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 cup water",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 small bunch parsley (about 1.5 cups, chopped, loosely packed)",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "8 large eggs",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "6 oz cheese",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "2 tbsp olive oil",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Spice Blend",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 tsp cumin",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 tsp coriander",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 tsp turmeric",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 tsp salt",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1/2 tsp paprika or cayenne pepper if you want some heat",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1/2 tsp black pepper",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1/4 tsp caraway",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1/4 tsp thyme",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1/4 tsp cinnamon",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Mix the spices together (grinding any whole spices if necessary) and set them aside.",
+        "In a large frying pan or pot over medium heat, saute the onions in about 1 tbsp of olive oil until tender.",
+        "Toss chicken with 1/2 of the spice mix. Add this to the pan and brown.",
+        "Add the potatoes and the water to the pan. Bring to a gentle simmer, then cook uncovered until potatoes are tender and most of the liquid has evaporated.",
+        "Stir chopped parsley into the cooked mixture and set aside to cool.",
+        "Preheat oven to 350°F (180°C), and grease a medium (2 quart/liter) baking pan with the remaining olive oil.",
+        "Thoroughly whisk the eggs in a large bowl, then mix in the cheese. Stir in the chicken, potato, and parsley mixture, along with the remaining spice mixture. Stir until well-combined, then pour into the oiled baking dish.",
+        "Bake for 30-35 minutes, or until set in the center. Allow to cool, and serve warm or at room temperature. Serve with some harissa, if you like."
+      ]
+    }
+  ],
+  "notes": null
+}
