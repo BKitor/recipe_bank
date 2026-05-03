@@ -1,0 +1,2 @@
+- When running python code, use a virtual environment. There should be a .venv at the root of the project, if not, make it and only run/install dependencies in there. 
+- Don't let files in the python project get to big, once stuff is over 1k lines, break it out into it's own file.

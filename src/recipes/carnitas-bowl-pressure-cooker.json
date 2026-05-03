@@ -1,0 +1,301 @@
+{
+  "title": "Carnitas Bowl (Pressure Cooker)",
+  "source_url": null,
+  "description": null,
+  "prep_time_min": null,
+  "cook_time_min": 7,
+  "total_time_min": null,
+  "servings": null,
+  "tags": [],
+  "ingredient_groups": [
+    {
+      "name": "1) Pressure Cooker Carnitas (Pork Shoulder)",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "name": "3–4 lb pork shoulder, cut into large chunks",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 tbsp kosher salt",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "2 tsp cumin",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "2 tsp dried oregano",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1–2 tsp chili powder",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 cinnamon stick, broken into peices",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "2 bay leaves",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "4 cloves garlic, smashed",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 onion, quartered",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 orange (juice + spent halves)",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 lime (juice)",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 cup chicken stock",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "2) Mexican Rice",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "name": "2 cups long-grain white rice",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "2 tbsp oil",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 small onion, finely diced",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "2 cloves garlic",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1/2 cup tomato sauce",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "3 1/2–4 cups chicken broth",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 tsp cumin",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Salt to taste",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "3) Seasoned Beans (Black or Pinto)",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "name": "2 ~16oz cans beans w/ liquid(or ~3 cups cooked)",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 ~16oz can diced tomatos",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 small onion, diced",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 serrano or jalapeno, diced",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 clove garlic, minced",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 tsp Mexican oregano",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 tsp cumin",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1/2 tsp chili powder",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1/2 tsp smoked paprika",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Splash of stock or water",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "4) Sautéed Bell Peppers",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "name": "3 bell peppers (mixed colors), sliced",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1/2 red onion (optional)",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 tbsp oil",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1/2 tsp cumin",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1/2 tsp smoked paprika",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Salt",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Lime juice (to finish)",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "1) Pressure Cooker Carnitas (Pork Shoulder)",
+      "steps": [
+        "Toss pork with salt and spices.",
+        "Add pork, garlic, onion, cinnamon, bay, citrus juice + halves, and stock to pressure cooker.",
+        "Cook on high pressure 45–55 minutes. Natural release 15 minutes, then vent.",
+        "Remove pork and shred. Discard solids.",
+        "Reduce cooking liquid using sauté mode until slightly thick.",
+        "Toss shredded pork with reduced liquid.",
+        "Optional: Broil 5–8 minutes for crispy edges."
+      ]
+    },
+    {
+      "name": "2) Mexican Rice",
+      "steps": [
+        "Rinse rice thoroughly.",
+        "Toast rice in oil until lightly golden.",
+        "Add onion and garlic; cook briefly.",
+        "Stir in tomato sauce, broth, cumin, and salt.",
+        "Simmer covered 15–18 minutes. Rest 10 minutes, then fluff."
+      ]
+    },
+    {
+      "name": "3) Seasoned Beans (Black or Pinto)",
+      "steps": [
+        "Sauté onions over medium-high heat until soft",
+        "Add garlic and spicy-pepper",
+        "Add tomatoes and simmer for until slightly reduced",
+        "Add beans, spices, and liquid.",
+        "Simmer 5–10 minutes until slightly thickened.",
+        "Adjust salt and add lime juice if desired."
+      ]
+    },
+    {
+      "name": "4) Sautéed Bell Peppers",
+      "steps": [
+        "Heat oil over medium-high heat.",
+        "Cook peppers (and onion) 5–7 minutes until softened but slightly crisp.",
+        "Add spices and salt; cook 1 minute more.",
+        "Finish with lime juice."
+      ]
+    }
+  ],
+  "notes": null,
+  "id": "carnitas-bowl-pressure-cooker",
+  "date_added": "2026-05-02"
+}

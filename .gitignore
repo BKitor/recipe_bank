@@ -4,3 +4,8 @@ _site/
 __pycache__/
 *.pyc
 .env
+
+# Python build artifacts
+*.egg-info/
+dist/
+.pytest_cache/
