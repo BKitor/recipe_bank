@@ -1,0 +1,1 @@
+!function(t){!function(){const e=t.write,n=new Map;t.write=function(r){const c=t.currentScript;if(!c)return void e.apply(t,[r]);let i=n.get(c);void 0===i&&(i=c.nextSibling,n.set(c,i));const a=t.createDocumentFragment(),o=t.createRange();o.setStart(a,0),a.appendChild(o.createContextualFragment(r)),c.parentElement.insertBefore(a,i)}}()}(document);
