@@ -1,0 +1,207 @@
+{
+  "title": "High-Protein Sweet & Sour Meatballs (Meal Prep)",
+  "source_url": null,
+  "description": null,
+  "prep_time_min": null,
+  "cook_time_min": 7,
+  "total_time_min": 45,
+  "servings": "~5 meal prep servings",
+  "tags": [],
+  "ingredient_groups": [
+    {
+      "name": "Meatballs",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "name": "2+ lb lean ground turkey(93–99%)/pork mix",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 egg",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "½ cup panko breadcrumbs (or oat flour)",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "½ cup finely minced onion",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "4 cloves garlic, minced",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "2 tbsp soy sauce",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 tsp grated ginger",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 tsp black pepper",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 tsp salt",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 tbsp sesame oil",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Sweet & Sour Sauce",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 cup pineapple juice (or blended pineapple chunks)",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "¼ cup rice vinegar",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "¼ cup ketchup",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "2 tbsp soy sauce",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "2 tbsp brown sugar or honey (optional)",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 tbsp cornstarch",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 scoop unflavored collagen or whey isolate (optional protein boost)",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "½ cup water",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Vegetables",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 red bell pepper, chopped",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 green bell pepper, chopped",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 cup pineapple chunks",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 medium onion, chopped",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "For Serving",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "name": "4–5 cups cooked jasmine or brown rice",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "1. Make the Meatballs",
+      "steps": [
+        "Preheat oven to 425°F (220°C) .",
+        "In a large bowl mix ground turkey, egg whites, breadcrumbs, onion, garlic, soy sauce, ginger, sesame oil, salt, and pepper.",
+        "Form 30–35 meatballs (~1.5 tbsp each).",
+        "Place on a parchment-lined baking sheet.",
+        "Bake 15–18 minutes until cooked through."
+      ]
+    },
+    {
+      "name": "2. Make the Sauce",
+      "steps": [
+        "Whisk together pineapple juice, rice vinegar, ketchup, soy sauce, brown sugar, water, cornstarch, and optional protein powder."
+      ]
+    },
+    {
+      "name": "3. Cook the Vegetables",
+      "steps": [
+        "Heat a large skillet or wok over medium-high heat.",
+        "Add a small amount of oil.",
+        "Stir-fry onion, bell peppers, and pineapple for 3–4 minutes until slightly softened."
+      ]
+    },
+    {
+      "name": "4. Combine",
+      "steps": [
+        "Add baked meatballs to the pan.",
+        "Pour sauce over everything.",
+        "Simmer 3–5 minutes until thickened and glossy."
+      ]
+    }
+  ],
+  "notes": null,
+  "id": "high-protein-sweet-sour-meatballs-meal-prep",
+  "date_added": "2026-05-02"
+}
