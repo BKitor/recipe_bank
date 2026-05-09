@@ -1,0 +1,140 @@
+{
+  "title": "One Pot Beef, Bean & Lentil Ragú",
+  "source_url": "",
+  "description": "A hearty one-pot pasta with ground beef, cannellini beans, and lentils in a rich tomato sauce. High protein, high fiber, and ready in under 30 minutes of active cooking.",
+  "prep_time_min": 5,
+  "cook_time_min": 30,
+  "total_time_min": 35,
+  "servings": "5",
+  "tags": [
+    "Course",
+    "Main Course",
+    "Cuisine",
+    "Italian",
+    "Meal Prep",
+    "High Protein"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "Ragú",
+      "ingredients": [
+        {
+          "amount": "15g (1 Tbsp)",
+          "unit": "",
+          "name": "olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "10",
+          "unit": "cloves",
+          "name": "garlic",
+          "notes": "grated"
+        },
+        {
+          "amount": "170g (1 small can)",
+          "unit": "",
+          "name": "tomato paste",
+          "notes": ""
+        },
+        {
+          "amount": "448g (16oz)",
+          "unit": "",
+          "name": "93% lean ground beef",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "name": "coarse salt",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "tsp each",
+          "name": "black pepper, red chili flakes, Italian seasoning",
+          "notes": ""
+        },
+        {
+          "amount": "425g (15oz)",
+          "unit": "",
+          "name": "canned cannellini beans in vodka sauce",
+          "notes": "or plain cannellini beans + 1 cup store-bought vodka sauce + 1 Tbsp olive oil"
+        },
+        {
+          "amount": "425g (15oz)",
+          "unit": "",
+          "name": "canned lentils",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Pasta & Cooking Liquid",
+      "ingredients": [
+        {
+          "amount": "336g (12oz)",
+          "unit": "",
+          "name": "whole wheat pasta",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "tsp",
+          "name": "coarse salt",
+          "notes": ""
+        },
+        {
+          "amount": "450ml (16oz)",
+          "unit": "",
+          "name": "bone broth",
+          "notes": ""
+        },
+        {
+          "amount": "336ml (12oz)",
+          "unit": "",
+          "name": "water",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Finishing",
+      "ingredients": [
+        {
+          "amount": "120g (1/2 cup)",
+          "unit": "",
+          "name": "whole milk skyr or Greek yogurt",
+          "notes": ""
+        },
+        {
+          "amount": "30g",
+          "unit": "",
+          "name": "parmigiano reggiano",
+          "notes": "grated"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "fresh cilantro, basil, or parsley",
+          "notes": "chopped, to serve"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "In a pot over high heat, add olive oil, garlic, and tomato paste. Cook for 3 minutes, stirring constantly.",
+        "Add ground beef and cook, breaking up with a spoon, until browned.",
+        "Add spices, cannellini beans, and lentils. Cook for 3 minutes.",
+        "Add bone broth, water, and salt. Bring to a simmer.",
+        "Add pasta and cook for about 20 minutes, stirring occasionally, until pasta is tender and liquid is mostly absorbed.",
+        "Stir in yogurt, parmigiano reggiano, and fresh herbs. Serve immediately."
+      ]
+    }
+  ],
+  "notes": "Nutrition (per serving): 660 cal | 47g protein | 80g carbs (17g fiber) | 17g fat\n\nIf you can't find cannellini beans in vodka sauce, use a plain 15oz can of cannellini beans + 1 cup store-bought vodka sauce + 1 Tbsp olive oil.",
+  "id": "one-pot-beef-bean-lentil-ragu",
+  "date_added": "2026-05-08"
+}
