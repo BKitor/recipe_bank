@@ -1,0 +1,187 @@
+{
+  "title": "Homemade Meatballs Recipe",
+  "source_url": "https://www.budgetbytes.com/homemade-meatballs/",
+  "description": "These easy homemade meatballs are freezer-friendly and versatile. Keep a batch in the freezer for quick weeknight dinners later!",
+  "prep_time_min": 25,
+  "cook_time_min": 30,
+  "total_time_min": 55,
+  "servings": "8",
+  "tags": [
+    "Dinner",
+    "Main Course",
+    "American",
+    "Italian"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "½",
+          "unit": "cup",
+          "name": "plain breadcrumbs",
+          "notes": "70g, $0.17*"
+        },
+        {
+          "amount": "½",
+          "unit": "cup",
+          "name": "grated Parmesan",
+          "notes": "50g, $1.92"
+        },
+        {
+          "amount": "½",
+          "unit": "tsp",
+          "name": "garlic powder",
+          "notes": "$0.05"
+        },
+        {
+          "amount": "½",
+          "unit": "tsp",
+          "name": "onion powder",
+          "notes": "$0.05"
+        },
+        {
+          "amount": "½",
+          "unit": "tsp",
+          "name": "Italian seasoning",
+          "notes": "$0.05"
+        },
+        {
+          "amount": "¼",
+          "unit": "tsp",
+          "name": "salt",
+          "notes": "$0.02"
+        },
+        {
+          "amount": "¼",
+          "unit": "tsp",
+          "name": "black pepper",
+          "notes": "freshly cracked, $0.03"
+        },
+        {
+          "amount": "2",
+          "unit": "large",
+          "name": "eggs",
+          "notes": "$1.58**"
+        },
+        {
+          "amount": "¼",
+          "unit": "cup",
+          "name": "whole milk",
+          "notes": "4 oz., $0.04"
+        },
+        {
+          "amount": "1",
+          "unit": "lb.",
+          "name": "bulk Italian sausage",
+          "notes": "454g, $3.57***"
+        },
+        {
+          "amount": "1",
+          "unit": "lb.",
+          "name": "ground beef",
+          "notes": "454g, $4.98"
+        }
+      ]
+    },
+    {
+      "name": "Marinara Sauce (optional)",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "small",
+          "name": "yellow onion",
+          "notes": "$0.70"
+        },
+        {
+          "amount": "2",
+          "unit": "",
+          "name": "garlic cloves",
+          "notes": "$0.08"
+        },
+        {
+          "amount": "2",
+          "unit": "Tbsp",
+          "name": "olive oil",
+          "notes": "$0.44"
+        },
+        {
+          "amount": "2",
+          "unit": "Tbsp",
+          "name": "tomato paste",
+          "notes": "$0.18"
+        },
+        {
+          "amount": "28",
+          "unit": "oz.",
+          "name": "crushed tomatoes",
+          "notes": "1 can, $1.67"
+        },
+        {
+          "amount": "½",
+          "unit": "tsp",
+          "name": "dried basil",
+          "notes": "$0.05"
+        },
+        {
+          "amount": "½",
+          "unit": "tsp",
+          "name": "dried oregano",
+          "notes": "$0.05"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "name": "brown sugar",
+          "notes": "optional, $0.02"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "name": "salt",
+          "notes": "or to taste, $0.03"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "In a small bowl, combine the breadcrumbs, Parmesan, garlic powder, onion powder, Italian seasoning, salt, and pepper. In a separate small bowl, lightly whisk the two eggs.",
+        "Add the breadcrumb mixture, eggs, milk, Italian sausage, and ground beef to a large bowl. Use your hands to mix the ingredients together until evenly combined. Avoid over mixing the meat.",
+        "Let the meatball mixture rest for five minutes to allow the breadcrumbs time to soften. Divide and shape the meat into about 32 balls, approximately 2 Tbsp in volume each."
+      ]
+    },
+    {
+      "name": "Oven Cooking Instructions",
+      "steps": [
+        "Preheat the oven to 400ºF. Line a baking sheet with parchment. Place the meatballs on the baking sheet about one inch apart from each other.",
+        "Bake for about 15 minutes, or until lightly browned.",
+        "Once browned, transfer them to a pot of red sauce (see below) and simmer for five more minutes in the sauce. If not using a red sauce, add an additional 3-5 minutes to the bake time, or until they're cooked through (internal temp of 160°F)."
+      ]
+    },
+    {
+      "name": "Stovetop Cooking Instructions",
+      "steps": [
+        "Add a tablespoon of cooking oil to a large skillet and heat over medium. Once hot, swirl the oil to coat the surface of the skillet. Add half of the meatballs to the skillet.",
+        "Cook them, turning every couple of minutes, until browned on all sides and cooked through (internal temp of 160°F). Repeat with the second batch.",
+        "Once cooked, transfer them to a pot of red sauce (see below) and simmer for a few minutes more before serving, if desired."
+      ]
+    },
+    {
+      "name": "Marinara Sauce Instructions",
+      "steps": [
+        "Meanwhile, make your marinara sauce (optional)****. Start by dicing the onion and mincing the garlic. Add both to a sauce pot with the olive oil and cook over medium heat, stirring now and then, until the onions are soft and translucent, about 5 minutes.",
+        "Stir in the tomato paste and let it cook for another 3 to 5 minutes, stirring often, until it darkens slightly. This step helps mellow the acidity and brings out a subtle sweetness.",
+        "Pour in the crushed tomatoes, then add the basil, oregano, brown sugar, and salt. Stir well, making sure to scrape up any bits of tomato paste stuck to the bottom of the pot.",
+        "Bring the sauce to a gentle simmer, then lower the heat to medium-low. Partially cover the pot and let it simmer for about 30 minutes, giving it a stir every so often.",
+        "After 30 minutes, give the sauce a taste and adjust the seasoning as needed. If it still tastes a little sharp, let it simmer longer or add a touch more sugar.",
+        "Add the cooked meatballs and simmer for a few more minutes until they're fully cooked through (internal temp of 160°F). Serve and enjoy!"
+      ]
+    }
+  ],
+  "notes": "Notes\n*\nThe breadcrumbs, along with the eggs, help hold everything together.\nWhile I have made recipes without them (see my\nbeef kofta meatballs\n), they don't hold together quite as well, and the meat has a firmer texture, similar to that of a hamburger.\nFor gluten-free, try using oatmeal, rice, or crushed gluten-free crackers\nin place of the breadcrumbs.\n**\nIf you need to replace the eggs\nfor dietary reasons, you can experiment\nusing a\nflax egg\n(1 Tbsp ground flaxseed mixed with 3 Tbsp water per egg).\n***I only use a\nsmall amount of extra seasoning\nin this recipe as the Italian sausage\nalready has herbs and spices added\n.\nI mix this with ground beef, which adds more flavor and moisture.\nYou\ncan\nuse different types of ground meat, but you'll need to increase the seasonings accordingly\n, as the texture and flavor may be different.\n****\nMarinara sauce is an optional (but delicious) serving suggestion\n. You can either\nmake it from scratch\nas I'm showing here, or use a\nstore-bought red sauce. I recommend prepping your homemade sauce before you make the balls so it has time to cook.\nIf using store-bought, bring it up to a gentle simmer before adding the meatballs.",
+  "id": "homemade-meatballs-recipe",
+  "date_added": "2026-05-22"
+}
