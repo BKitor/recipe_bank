@@ -1,0 +1,54 @@
+{
+  "title": "Lebanese Garlic Sauce (Toum)",
+  "source_url": "https://www.littlespicejar.com/lebanese-garlic-sauce-toum/",
+  "description": "Toum is a Lebanese garlic sauce made with just 4 simple ingredients! It's easy to make because the sauce comes together in a food processor and lasts for months in the fridge!",
+  "prep_time_min": 15,
+  "cook_time_min": null,
+  "total_time_min": 15,
+  "servings": "32",
+  "tags": [],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "½",
+          "unit": "cup",
+          "name": "garlic cloves",
+          "notes": "slice down the center and remove green germ"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "name": "kosher salt",
+          "notes": ""
+        },
+        {
+          "amount": "3",
+          "unit": "tablespoons",
+          "name": "fresh lemon juice",
+          "notes": ""
+        },
+        {
+          "amount": "1 ½",
+          "unit": "cups",
+          "name": "colorless oil",
+          "notes": "such as sunflower"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "GARLIC: Pulse the garlic and salt together in the food processor until very finely minced. Scrape down the sides and up the bowl. Run the food processor while adding ¼ cup oil in a slow, steady stream.",
+        "EMULSION: Stop the food processor and scrape down the bowl one last time. Then run the food processor while you add 1 tablespoon of lemon juice very slowly. Alternate between these two ingredients making sure to add in a slow and steady stream. Add in ½ cup of oil, followed by 1 tablespoon of lemon juice. Then add ¼ cup of oil, the last tablespoon of lemon juice, and finally the remaining ½ cup of oil.",
+        "REFRIGERATE: Transfer the garlic sauce to a bowl or glass mason jar, cover, and refrigerate for up to 3 months. The garlic sauce will lose its garlicky flavor the longer it sits so I usually try to use it within 1 month. The sauce can be consumed immediately or after refrigeration. I find that it tastes better the day after you make it."
+      ]
+    }
+  ],
+  "notes": null,
+  "id": "lebanese-garlic-sauce-toum",
+  "date_added": "2026-05-25"
+}
