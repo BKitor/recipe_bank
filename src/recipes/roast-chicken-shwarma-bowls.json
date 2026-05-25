@@ -1,0 +1,130 @@
+{
+  "title": "Roast Chicken Shwarma Bowls",
+  "source_url": null,
+  "description": "Like a deconstructed shwarma wrap. Adapted from a Matty Matheson chicken-shwarma recepie and a kenji roast-bird method.",
+  "prep_time_min": null,
+  "cook_time_min": null,
+  "total_time_min": null,
+  "servings": "7",
+  "tags": [],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Whole Chicken",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "pint",
+          "name": "Cherry Tomatoes",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Pickeles (unsweetened)",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Pickled Turnips",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "name": "Neutral oil",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "tbsp",
+          "name": "Paprika",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "name": "Cayenne",
+          "notes": ""
+        },
+        {
+          "amount": "1/2",
+          "unit": "tbsp",
+          "name": "Cumin",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "name": "Onion Powder",
+          "notes": ""
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "name": "Garlic Powder",
+          "notes": ""
+        },
+        {
+          "amount": "1/4 tsp",
+          "unit": "",
+          "name": "Ground cloves",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "tsp",
+          "name": "Ground Cinnamon",
+          "notes": ""
+        },
+        {
+          "amount": "1/4",
+          "unit": "tsp",
+          "name": "Ground Allspice",
+          "notes": ""
+        },
+        {
+          "amount": "3",
+          "unit": "cups",
+          "name": "Basmati Rice",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "cups",
+          "name": "Hummus",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "cups",
+          "name": "Toum (Garlic sauce)",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Spatchcock bird, peel up skin and rub salt under skin. Leave in fride overnight. (TODO: try doing spice-rub instead of just salt, might help flavour).",
+        "Preheat oven to 450. Mix oil and spices, coat the bird in the mixutre. Ensure the bird is spread out evenly, to maximize airflow",
+        "Bake until breasts register 140 and thighs 160. (~35min). If they come to temp unevenly, remove what's finished and continue cooking what's raw. Once cooked, tent with foil and let rest.",
+        "Prep rice (it's rice, you know how to do this).",
+        "Slice pickles, turnips and other garnishes.",
+        "Once chicken's cool, shred it. Optionaly add more oil+spice mixture if flavour isn't there.",
+        "Assemble rice, chicken, veggies, hummus + toum."
+      ]
+    }
+  ],
+  "notes": null,
+  "id": "roast-chicken-shwarma-bowls",
+  "date_added": "2026-05-25"
+}

@@ -6,18 +6,24 @@ import traceback
 from pathlib import Path
 
 from .importer import import_file
+from .manual import run_manual_entry
 
 
 def main():
     parser = argparse.ArgumentParser(
         prog="recipe-importer",
-        description="Import recipe HTML files into src/recipes/*.json",
+        description="Import recipe HTML/PDF files into src/recipes/*.json.",
     )
     parser.add_argument(
         "inputs",
-        nargs="+",
+        nargs="*",
         metavar="FILE_OR_DIR",
-        help=".html files or a directory of .html files (e.g. Recipes/)",
+        help=".html/.pdf files or a directory containing them (e.g. Recipes/)",
+    )
+    parser.add_argument(
+        "--manual",
+        action="store_true",
+        help="interactively enter a recipe by hand instead of importing a file",
     )
     parser.add_argument(
         "--output", "-o",
@@ -27,11 +33,19 @@ def main():
     parser.add_argument(
         "--dry-run",
         action="store_true",
-        help="parse and print without writing files or downloading images",
+        help="print results without writing files or downloading images",
     )
     args = parser.parse_args()
 
     out_dir = Path(args.output) if args.output else None
+
+    if args.manual:
+        run_manual_entry(out_dir=out_dir, dry_run=args.dry_run)
+        return
+
+    if not args.inputs:
+        parser.print_help()
+        sys.exit(1)
 
     files = []
     for inp in args.inputs:
