@@ -1,0 +1,90 @@
+{
+  "title": "Easy Lemon Chicken",
+  "source_url": "https://www.saltandlavender.com/lemon-butter-chicken/",
+  "description": "This 20-minute lemon chicken recipe has juicy chicken with a simple buttery lemon sauce. It's the ideal dinner for when you don't want to put in a lot of effort!",
+  "prep_time_min": 5,
+  "cook_time_min": 15,
+  "total_time_min": 20,
+  "servings": "4",
+  "tags": [
+    "Main Course",
+    "American",
+    "lemon butter chicken",
+    "lemon chicken"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "large",
+          "name": "boneless skinless chicken breasts",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Salt & pepper",
+          "notes": "to taste"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "name": "garlic powder",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Flour",
+          "notes": "for dredging"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "name": "olive oil",
+          "notes": ""
+        },
+        {
+          "amount": "3",
+          "unit": "tablespoons",
+          "name": "butter",
+          "notes": "divided"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "name": "chicken broth",
+          "notes": ""
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoons",
+          "name": "lemon juice + zest of 1/2 lemon",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "Chopped fresh parsley",
+          "notes": "optional, to taste"
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Cut your chicken breasts in half lengthwise so you have thinner cutlets. Sprinkle them with salt & pepper and the garlic powder. Dredge them in flour so they're nicely coated.",
+        "Add the olive oil and 1 tablespoon of the butter to a skillet over medium-high heat. Once the pan is hot, add the chicken cutlets and cook them for 4-5 minutes/side or until they're nice and golden. Take them out of the pan and set aside.",
+        "Add the chicken broth, lemon juice + zest, and remaining butter to the pan and let it bubble for a couple of minutes.",
+        "Add the chicken back in and cook for another few minutes until it's cooked through and the sauce is further reduced. Season with salt & pepper as needed and sprinkle the fresh parsley over top if using."
+      ]
+    }
+  ],
+  "notes": "Notes\nIf you buy particularly small chicken breasts, you can skip the step of cutting them in half lengthwise - just ensure they're cooked through.",
+  "id": "easy-lemon-chicken",
+  "date_added": "2026-07-12"
+}
