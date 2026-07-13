@@ -1,0 +1,81 @@
+{
+  "title": "Pressure Cooker Chicken Stock Recipe",
+  "source_url": "https://www.seriouseats.com/pressure-cooker-chicken-stock-recipe?print=",
+  "description": null,
+  "prep_time_min": 10,
+  "cook_time_min": 60,
+  "total_time_min": 70,
+  "servings": "8 servings",
+  "tags": [],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "name": "4 1/2 pounds ( 2 kg ) mixed chicken parts, such as wings , backs, bones, and feet (see note)",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 1/2 pounds yellow onions (about 2 large ; 680 g ), diced",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "12 ounces carrots (about 2 large ; 340 g ), diced",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "8 ounces celery (about 6 medium ribs ; 225 g ), diced",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "4 medium cloves garlic",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "4 flat-leaf parsley sprigs",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "3 fresh thyme sprigs (optional)",
+          "notes": ""
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "name": "1 bay leaf",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Combine all ingredients in a stovetop or electric pressure cooker and cover with cold water, about 2 quarts (1.9L). Make sure not to let liquid exceed the cooker's max-fill line; it's okay if a few things poke above the water's surface.",
+        "Close cooker and bring to high pressure, then cook at high pressure for 45 minutes. Allow cooker to depressurize, either by allowing it to cool to room temperature (for the clearest stock) or by using the pressure-release valve on the cooker to rapidly vent steam. (Using the release valve will cause the stock to boil, which may result in some loss of clarity; this should not be an issue unless you're serving it as consommé or in another preparation that requires the broth to be crystal-clear.)",
+        "Skim fat from stock, strain, then use as desired or freeze for up to 6 months.",
+        "Combine all ingredients in a stovetop or electric pressure cooker and cover with cold water, about 2 quarts (1.9L). Make sure not to let liquid exceed the cooker's max-fill line; it's okay if a few things poke above the water's surface.",
+        "Close cooker and bring to high pressure, then cook at high pressure for 45 minutes. Allow cooker to depressurize, either by allowing it to cool to room temperature (for the clearest stock) or by using the pressure-release valve on the cooker to rapidly vent steam. (Using the release valve will cause the stock to boil, which may result in some loss of clarity; this should not be an issue unless you're serving it as consommé or in another preparation that requires the broth to be crystal-clear.)",
+        "Skim fat from stock, strain, then use as desired or freeze for up to 6 months."
+      ]
+    }
+  ],
+  "notes": "You can use many different chicken parts to make stock. The breast meat produces stock with the best flavor, but the thinnest body; plus, it's expensive. A better option is to use cheaper, collagen-rich parts, like wings, backs, and feet (using feet will produce the most gelatin-rich stock). Any bone scraps you've been saving, whether raw or cooked, can also go in the pot.",
+  "id": "pressure-cooker-chicken-stock-recipe",
+  "date_added": "2026-07-12"
+}
