@@ -1,0 +1,68 @@
+{
+  "title": "Hamburger Steak (Hambāgu ハンバーグ)",
+  "description": "Japanese hamburger steak or hambāgu ハンバーグ is a juicy hamburger steak patty made with ground beef, panko breadcrumbs, and sauteed onions. It's served with a tangy sauce made of ketchup and worcestershire sauce!",
+  "prep_time_min": 8,
+  "cook_time_min": 25,
+  "total_time_min": 33,
+  "servings": "4",
+  "tags": [
+    "dinner",
+    "lunch",
+    "Japanese",
+    "Korean"
+  ],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        { "amount": "2", "unit": "tbsp", "name": "cooking oil", "notes": "divided" },
+        { "amount": "1 1/2", "unit": "lb", "name": "ground beef", "notes": "mixed with pork if desired" },
+        { "amount": "1/2", "unit": "cup", "name": "panko breadcrumbs", "notes": "" },
+        { "amount": "1/2", "unit": "cup", "name": "milk", "notes": "" },
+        { "amount": "1/2", "unit": "", "name": "medium onion", "notes": "chopped" },
+        { "amount": "3", "unit": "cloves", "name": "garlic", "notes": "minced" },
+        { "amount": "1", "unit": "large", "name": "egg", "notes": "" },
+        { "amount": "2", "unit": "tbsp", "name": "ketchup", "notes": "" },
+        { "amount": "1", "unit": "tbsp", "name": "worcestershire sauce", "notes": "" },
+        { "amount": "1/2", "unit": "tsp", "name": "salt", "notes": "" },
+        { "amount": "1/4", "unit": "tsp", "name": "black pepper", "notes": "" },
+        { "amount": "1/4", "unit": "cup", "name": "red wine", "notes": "to steam patty" }
+      ]
+    },
+    {
+      "name": "Demi-glace sauce",
+      "ingredients": [
+        { "amount": "1", "unit": "tbsp", "name": "butter", "notes": "unsalted" },
+        { "amount": "1", "unit": "tbsp", "name": "all purpose flour", "notes": "" },
+        { "amount": "2", "unit": "tbsp", "name": "mirin", "notes": "" },
+        { "amount": "3", "unit": "tbs", "name": "Worcestershire sauce", "notes": "" },
+        { "amount": "2", "unit": "tbsp", "name": "soy sauce", "notes": "" },
+        { "amount": "2", "unit": "tbsp", "name": "ketchup", "notes": "" },
+        { "amount": "1/3", "unit": "cup", "name": "red wine", "notes": "" }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Combine panko breadcrumbs and milk in a small bowl. Set aside while preparing the other ingredients.",
+        "Heat oil in a pan over medium heat and add onion. Lightly season with salt and sauté for 2-3 minutes or until the edges are golden brown. Set aside to cool completely.",
+        "In a large mixing bowl, add ground beef, soaked breadcrumbs, sautéed onions, garlic, egg, ketchup, worcestershire sauce, salt and pepper. Mix with your hands until evenly combined.",
+        "Scoop a portion of the meat and toss back and forth between your hands before forming into a tight patty.",
+        "Lightly oil a large pan and heat over medium high heat. Add the hamburger steak and cook each side for 3 to 4 minutes. Then add the red wine and cover to steam until the steak patties are fully cooked (internal temperature of 135° F). Remove and set aside."
+      ]
+    },
+    {
+      "name": "To make the demi-glace sauce:",
+      "steps": [
+        "Deglaze pan with red wine, scrape brown bits off pan with wodden spatuly/spoon. Melt butter, add flour and cook until raw-flour smell dissapates",
+        "Add mirin, sugar, soy sauce, ketchup, worchestershire, and wine (or stock). Season to taste, add more ingredients as desired. Cook for about 2 minutes until the sauce is thickened."
+      ]
+    }
+  ],
+  "notes": "Notes\nGround meat\n- You can opt to use a combination of ground beef and pork. Keep the ground beef to at least 60% for best flavor. Otherwise, if you prefer a beefier flavor, use 100% ground beef. I used 85% lean.\nPanko bread crumbs\n- Substitute with regular unseasoned bread crumbs. If you opt to use seasoned bread crumbs, leave out salt as it may be too salty.\nForming hambagu steaks\n- Remove air pockets from the patty by tossing back and forth between your hands. This helps keep its shape during cooking.\nSauce\n- If preferred,\nwipe off excess grease from the pan first.\nFor a thinner sauce, increase the amount of water a Tablespoon at a time and add more salt and sugar to your liking.\nLeftovers\n- Store leftover hamburger steaks in an airtight container and keep in the fridge for up to 3 days.",
+  "id": "japanese-hamburger-steak-hambagu",
+  "date_added": "2026-05-02"
+}
+
