@@ -1,0 +1,33 @@
+{
+  "title": "Oven Brocoli",
+  "id": "oven-brocoli",
+  "date_added": "2026-09-19",
+  "description": "Kenji's method for oven brocoli/veggies in general, from The Fool Lab.",
+  "prep_time_min": 5,
+  "cook_time_min": 15,
+  "total_time_min": 20,
+  "servings": "4",
+  "tags": ["Dinner", "American", "Side dish"],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        { "amount": "1.5", "unit": "lb", "name": "Brocoli, cut into florets", "notes": "" },
+        { "amount": "3", "unit": "tbsp", "name": "Olive Oil", "notes": "" },
+        { "amount": "1", "unit": "tbsp", "name": "Salt", "notes": "" },
+        { "amount": "1", "unit": "tbsp", "name": "Fresh Cracked Peper", "notes": "" },
+        { "amount": "1", "unit": "tbsp", "name": "Italian Seasoning", "notes": "As an example, feel free to omit, or get creative w/ seasonings." }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Adjust an oven rack to the lower-middle position, place a heavy rimmed baking sheet on the rack, and preheat the oven to 500F. Toss the brocoli with the oil in a large bowl, season generously with salt, peper and seasonings.",
+        "Carefully remove the baking sheet from the oven. Transfer brocoli to the pan, saking so that most of the florets end up flat side down, and return to oven. Roast until tender and well charred, about 10 minutes, stiring halfway through"
+      ]
+    }
+  ],
+  "notes": "This is kindof a 'base' recipie that can be coppied over to other roast veggies (see page 456 of The Food Lab).\nCan can swap Brocoli for Brussel Sprouts and roast for 15 minutes, or cauliflower for 20 minutes.\nCan get also get creative w/ seasonings/topings (finish with lemon, basamic vinigar, or bread crumbs)."
+}

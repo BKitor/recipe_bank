@@ -1,0 +1,34 @@
+{
+  "title": "Kenji's Roasted Potatoes",
+  "id": "kenji-roast-potatoes",
+  "date_added": "2026-09-19",
+  "description": "Fantastic roast potato recipie from The Food Lab.",
+  "prep_time_min": 10,
+  "cook_time_min": 50,
+  "total_time_min": 60,
+  "servings": "4-6",
+  "tags": ["Dinner", "American", "Side Dish", "Potatoes"],
+  "ingredient_groups": [
+    {
+      "name": "",
+      "ingredients": [
+        { "amount": "3", "unit": "lb", "name": "Russet Potatoes, cut into 1-2' cubes", "notes": "Other other starchy potato like Idaho or Baking" },
+        { "amount": "1/4", "unit": "cup", "name": "olive oil", "notes": "or other fats like bacon or duck" },
+        { "amount": "1", "unit": "tbps", "name": "Salt", "notes": "" },
+        { "amount": "1", "unit": "tbps", "name": "Pepper", "notes": "" },
+        { "amount": "1", "unit": "tbps", "name": "Fresh Chopped Herbs", "notes": "thyme, rosemary, parsley, and/or chives" }
+      ]
+    }
+  ],
+  "instruction_groups": [
+    {
+      "name": "",
+      "steps": [
+        "Adjust oven racks to the upper an dlower middle positions and preheat th eoven to 450F. Place potatoes in a large saucepan, cover with water by an inch, and season generously with salt. Bring to a boil over high heat, reduce to a simmer, and cook until a knife inserted meets barely any resistance (~10 min). Drain and transfer to a bowl.",
+        "Add the fat, and fresh cracked pepper. Vigerously toss potatoes well to coat par-boiled potatoes with starchy-fat film. Transfer potatoes to a baking sheet and roast until bottoms are cripst, rotating pan halfway though, about 25 minutes. To test doneness, attempty to pry a wedge from the pan, if there's lots of resistance, roast for an additional 3 mintues.",
+        "Flip all potatoes with a spatula, and continue to roast for an additional 25 mintues. Transfer to a servign bowl when finished, and and season withe with more salt pepper, and fresh herbs."
+      ]
+    }
+  ],
+  "notes": null
+}
