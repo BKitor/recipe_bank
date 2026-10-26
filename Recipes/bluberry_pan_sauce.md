@@ -1,0 +1,7 @@
+- 1cup blubery
+- small shallot
+- 2/3 sprig thyme
+- 1/4 cup dry red/stock
+- 1tps basamic vinigar
+- 1tps honey/syrup
+- 2tps butter
